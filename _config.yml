@@ -1,0 +1,12 @@
+# Site settings
+title: Kaffys - Katie Tigue
+email: katie@mail.rit.edu
+description: > # this means to ignore newlines until "baseurl:"
+  I'm Katie Tigue, and I'm a 4th year GDD Major. My hobbies include playing League of Legends and trying new beers.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "katie@mail.rit.edu" # the base hostname & protocol for your site
+twitter_username: KathleenTigue
+github_username:  Kaffys
+
+# Build settings
+markdown: kramdown
