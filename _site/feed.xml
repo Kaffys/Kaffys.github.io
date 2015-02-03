@@ -6,35 +6,33 @@
 </description>
     <link>katie@mail.rit.edu/</link>
     <atom:link href="katie@mail.rit.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Feb 2015 14:27:19 -0500</pubDate>
-    <lastBuildDate>Mon, 02 Feb 2015 14:27:19 -0500</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2015 15:03:54 -0500</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2015 15:03:54 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>First Flight</title>
+        <description>&lt;p&gt;This is my first blog post on my new website. I will be using this page for two classes I am taking this semester, Humanitarian FOSS Development and Business &amp;amp; Legal Aspects of Free/Open Source Software. This is my first time taking a class like this, and I’m really excited to explore the world of Open Source Software. &lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;To start off my open source adventure, I wanted to try something new and create a website with open source software. I heard of Jekyll from a friend, so I wanted to try and set it up. I’ve never used a command line tool before and I’m have some experience using Github. I installed &lt;a href=&quot;http://iterm.sourceforge.net/&quot;&gt;iTerm&lt;/a&gt; to use at my command line client, and I installed &lt;a href=&quot;http://brew.sh/&quot;&gt;Homebew&lt;/a&gt; which made it really easy to install Ruby and all of the Ruby Gems I needed. &lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;gem install jekyll&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Boom. Look I’m a pro. It’s really easy for me to run a local instance of Jekyll, just by going to the directory that my project is in and typing a quick command. &lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;jekyll serve&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Now, whenever I want to create a new blog post, I just create a new markdown file with the date and the title as the file name and drag and drop it into the _posts folder. I can write all of my posts in markdown, which would also makes my life pretty easy.&lt;/p&gt;
+
+&lt;p&gt;On Github, I’m using my github.io page to host my webpage, so I just push my website to that repo and it automagically updates it for me. Bam. Beautiful, simple blog page. &lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 02 Feb 2015 06:12:39 -0500</pubDate>
-        <link>katie@mail.rit.edu/jekyll/update/2015/02/02/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">katie@mail.rit.edu/jekyll/update/2015/02/02/welcome-to-jekyll.html</guid>
+        <pubDate>Tue, 03 Feb 2015 09:46:39 -0500</pubDate>
+        <link>katie@mail.rit.edu/bizleg/2015/02/03/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">katie@mail.rit.edu/bizleg/2015/02/03/welcome-to-jekyll.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>bizleg</category>
         
       </item>
     
