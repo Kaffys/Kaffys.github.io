@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lit Review - FOSS Primer"
+title:  "Lit Review - GNU GPL"
 date:   2015-02-10 14:46:39
 categories: bizleg
 ---
