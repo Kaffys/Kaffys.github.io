@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "HFOSS - Quiz 1"
+date:   2015-02-11 14:46:39
+categories: hfoss
+---
+
+#Pillars
+- Open Exchange
+- Participation
+- Rapid Prototyping
+- Meritocracy
+- Community
+
+#8 General Principals 
+- Make it interesting and make sure it happens
+- Scratch an itch
+- Minimize how many times you have to reinvent the wheel
+- Solve problems through parallel work whenever possible
+- Leverage the law of large numbers
+- Document what you do
+- Release early and often
+- Talk a lot
+
+#Similarities
+Same principles of making open source software open to whoever wants to contribute.
+
+#Differences
+General Principals are people, Pillars is a definition of open source.
+
+#Whos “keen analysis” did Weber “Draw Heavily” upon?”
+Eric Steven Raymond
+
+#What was the title of this “keen analysis?”
+The Cathedral and the Bazaar 
+
+#Where
+http://www.catb.org/esr/writings/cathedral-bazaar/
