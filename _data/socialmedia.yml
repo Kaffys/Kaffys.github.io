@@ -1,0 +1,14 @@
+- name: Twitter
+  url: http://twitter.com/KathleenTigue
+  class: icon-twitter
+  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+
+- name: GitHub
+  url: http://github.com/Kaffys
+  class: icon-github
+  title: Code und mehr...
+
+- name: Instagram
+  url: http://instagram.com/kaffys
+  class: icon-instagram
+  title: "Bilder und Impressionen mit und ohne Filter..."

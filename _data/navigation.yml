@@ -1,0 +1,23 @@
+- title: Home
+  url: "/index.html"
+  side: left
+
+- title: Portfolio
+  url: "/portfolio/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+
+- title: Resume
+  url: "/KathleenTigue_Resume.pdf"
+  side: left
+
+- title: About Me
+  url: "/about/"
+  side: left
+
+- title: Contact
+  url: "/contact/"
+  side: right
