@@ -2,9 +2,6 @@
   url: "/index.html"
   side: left
 
-- title: Portfolio
-  url: "/portfolio/"
-  side: left
 
 - title: Blog
   url: "/blog/"
