@@ -21,7 +21,7 @@ description: "Kathleen is a graduating Game Design and Development major from RI
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://www.kathleentigue.com"
+url: "http://Kaffys.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -34,7 +34,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://www.kathleentigue.com/images/"
+urlimg: "http://Kaffys.github.io/images/"
 
 
 # Logo size is 600x80 pixels
