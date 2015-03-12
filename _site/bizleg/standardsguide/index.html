@@ -1,0 +1,113 @@
+<h1 id="splattershmup-coding-stylestandards-sheet">Splattershmup Coding Style/Standards Sheet</h1>
+
+<h2 id="c-sharp">C-Sharp</h2>
+<p>### Spacing</p>
+
+<h5 id="spaces">Spaces</h5>
+<p>Use four spaces for indenting. Do not use a hardware tab to indent.</p>
+
+<h5 id="braces">Braces</h5>
+<p>Put braces on the next line, everywhere (if, else, functions, structures, class definitions, etc.)</p>
+
+<p><code>
+if(condition)
+{
+	// Code
+}
+</code></p>
+
+<p>The else statement starts on the next line after the last closing brace.</p>
+
+<p><code>
+if(condition)
+{
+	// Code
+}
+else
+{
+	// More Code
+}
+</code></p>
+
+<h3 id="floating-point-precision">Floating Point Precision</h3>
+<p>Use precision specification for floating point values unless there is an explicit need for a double.</p>
+
+<p><code>
+float f = 0.5f;
+</code></p>
+
+<p>Instead of</p>
+
+<p><code>
+float f = 0.5;
+</code></p>
+
+<p>And</p>
+
+<p><code>
+float f = 1.0f;
+</code></p>
+
+<p>Instead of</p>
+
+<p><code>
+float f = 1.f;
+</code></p>
+
+<h3 id="naming-conventions">Naming Conventions</h3>
+<p>##### Methods
+Method names should be <a href="http://c2.com/cgi/wiki?UpperCamelCase">pascal cased</a></p>
+
+<p><code>
+void Foo();
+void FooAndBar();
+</code></p>
+
+<h5 id="variables">Variables</h5>
+<p>Variable names should be <a href="http://c2.com/cgi/wiki?LowerCamelCase">camel cased</a></p>
+
+<p><code>
+int health;
+int hitCounter;
+</code></p>
+
+<p>Private Variables should start with an underscore:</p>
+
+<p><code>
+int _myPrivateInt;
+</code></p>
+
+<p>Variables that are intended to have a constant value (although are changed in the Unity Editor) should be in all caps with underscores between words.</p>
+
+<p><code>
+int MAX_PARTICLES = 100;
+</code></p>
+
+<p>Variables that are public and will be edited in the editor will have their initial values specified on their declaration line rather than in the constructor.
+##### Structs and Classes
+Struct and class names should be <a href="http://c2.com/cgi/wiki?UpperCamelCase">pascal cased</a></p>
+
+<p><code>
+struct ExplosionData;
+</code></p>
+
+<h5 id="enums">Enums</h5>
+<p>Enum names use the same naming convention as Classes. The enum constants should be all caps with underscores between words.</p>
+
+<p><code>
+enum Contact
+{
+	NONE,
+	EDGE,
+	MODEL_VERTEX,
+	TRM_VERTEX
+};
+</code></p>
+
+<h3 id="commenting">Commenting</h3>
+<p>Everything should use Microsoft’s C# XML Comments. If you are unsure of how to do this please read <a href="http://msdn.microsoft.com/en-us/library/aa288481(v=vs.71).aspx">this guide</a></p>
+
+<h3 id="line-length">Line Length</h3>
+<p>Avoid having lines with a length greater than 80 characters. The hard limit for line length is 120 characters, at this point you should split the function call  or whatever you’re doing among different lines with appropriate indenting on the next line down.</p>
+
+<p>This page was heavily inspired by the <a href="https://github.com/Circular-Studios/Dash/wiki/Coding-Standards">Dash Coding Standards Sheet</a></p>

@@ -3,432 +3,8 @@
   <channel>
     <title>Kathleen Tigue</title>
     <description>Kathleen is a graduating Game Design and Development major from RIT looking for full time work!</description>
-    <link>http://kathleentigue.com/</link>
-    <atom:link href="http://kathleentigue.com/feed.xml" rel="self" type="application/rss+xml" />
-    
-      <item>
-        <title>Wonderful Typography</title>
-        <description>&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
-    &lt;div class=&quot;panel radius&quot;&gt;
-      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#lato-a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#about-volkhov-lth2gt&quot;&gt;About Volkhov &amp;lt;h2&amp;gt;&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#feeling-responsive-uses-volkhov-for--lth3gt&quot;&gt;Feeling Responsive uses Volkhov for…  &amp;lt;h3&amp;gt;&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#heading-in-volkhov-lth4gt&quot;&gt;Heading in Volkhov &amp;lt;h4&amp;gt;&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#heading-in-volkhov-lth5gt&quot;&gt;Heading in Volkhov &amp;lt;h5&amp;gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#modular-scale&quot;&gt;Modular Scale&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#typographical-elements&quot;&gt;Typographical Elements&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#lthrgt-horizontal-line&quot;&gt;&amp;lt;hr&amp;gt; Horizontal Line&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltpregt-displaying-code&quot;&gt;&amp;lt;pre&amp;gt; Displaying Code&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltblockquotegt-quotation&quot;&gt;&amp;lt;blockquote&amp;gt; Quotation&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltblockquotegt-and-ltcitegt--together&quot;&gt;&amp;lt;blockquote&amp;gt; and &amp;lt;cite&amp;gt;  together&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltolgt-ordered-lists&quot;&gt;&amp;lt;ol&amp;gt; Ordered Lists&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltulgt-unordered-lists&quot;&gt;&amp;lt;ul&amp;gt; Unordered Lists&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltdlgt-definition-lists&quot;&gt;&amp;lt;dl&amp;gt; Definition Lists&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltagt&quot;&gt;&amp;lt;a&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltemgt&quot;&gt;&amp;lt;em&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltstronggt&quot;&gt;&amp;lt;strong&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltsmallgt&quot;&gt;&amp;lt;small&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltsgt&quot;&gt;&amp;lt;s&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltcitegt&quot;&gt;&amp;lt;cite&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltqgt&quot;&gt;&amp;lt;q&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltdfngt&quot;&gt;&amp;lt;dfn&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltabbrgt&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#lttimegt&quot;&gt;&amp;lt;time&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltcodegt&quot;&gt;&amp;lt;code&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltvargt&quot;&gt;&amp;lt;var&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltsampgt&quot;&gt;&amp;lt;samp&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltkbdgt&quot;&gt;&amp;lt;kbd&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltsubgt&quot;&gt;&amp;lt;sub&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltsupgt&quot;&gt;&amp;lt;sup&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltigt&quot;&gt;&amp;lt;i&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltbgt&quot;&gt;&amp;lt;b&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltugt&quot;&gt;&amp;lt;u&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltmarkgt&quot;&gt;&amp;lt;mark&amp;gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ltbrgt&quot;&gt;&amp;lt;br&amp;gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lth1gt-heading-in-volkhov&quot;&gt;&amp;lt;h1&amp;gt;-Heading in Volkhov&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#lth2gt-heading-in-volkhov&quot;&gt;&amp;lt;h2&amp;gt;-Heading in Volkhov&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#lth3gt-heading-in-volkhov&quot;&gt;&amp;lt;h3&amp;gt;-Heading in Volkhov&lt;/a&gt;            &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&quot;#lth4gt-heading-in-volkhov&quot;&gt;&amp;lt;h4&amp;gt;-Heading in Volkhov&lt;/a&gt;                &lt;ul&gt;
-                  &lt;li&gt;&lt;a href=&quot;#lth5gt-heading-in-volkhov&quot;&gt;&amp;lt;h5&amp;gt;-Heading in Volkhov&lt;/a&gt;&lt;/li&gt;
-                  &lt;li&gt;&lt;a href=&quot;#lth6gt-heading-in-volkhov&quot;&gt;&amp;lt;h6&amp;gt;-Heading in Volkhov&lt;/a&gt;&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tables&quot;&gt;Tables&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-
-
-&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
-
-    &lt;h2 id=&quot;lato-a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/h2&gt;
-
-    &lt;p&gt;&lt;a href=&quot;https://www.google.com/fonts/specimen/Lato&quot;&gt;Lato&lt;/a&gt; is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google. &lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;&lt;span class=&quot;teaser&quot;&gt;I do not think of type as something that should be readable. It should be beautiful.&lt;/span&gt;&lt;cite&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Ed_Benguiat&quot;&gt;Ed Benguiat&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;In the last ten or so years, during which Łukasz has been designing type, most of his projects were rooted in a particular design task that he needed to solve. With Lato, it was no different. Originally, the family was conceived as a set of corporate fonts for a large client — who in the end decided to go in different stylistic direction, so the family became available for a public release.&lt;/p&gt;
-
-    &lt;p&gt;When working on Lato, Łukasz tried to carefully balance some potentially conflicting priorities. He wanted to create a typeface that would seem quite “transparent” when used in body text but would display some original traits when used in larger sizes. He used classical proportions (particularly visible in the uppercase) to give the letterforms familiar harmony and elegance. At the same time, he created a sleek sans serif look, which makes evident the fact that Lato was designed in 2010 — even though it does not follow any current trend.&lt;/p&gt;
-
-    &lt;p&gt;The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. “Male and female, serious but friendly. With the feeling of the Summer,” says Łukasz. Learn more at &lt;a href=&quot;http://www.latofonts.com/&quot;&gt;www.latofonts.com&lt;/a&gt;&lt;/p&gt;
-
-    &lt;h2 id=&quot;about-volkhov-lth2gt&quot;&gt;About Volkhov &amp;lt;h2&amp;gt;&lt;/h2&gt;
-
-    &lt;p&gt;Volkhov is a low-contrast seriffed typeface with a robust character, intended for providing a motivating reading experience. Volkhov was designed by Ivan Petrov.&lt;/p&gt;
-
-    &lt;h3 id=&quot;feeling-responsive-uses-volkhov-for--lth3gt&quot;&gt;Feeling Responsive uses Volkhov for…  &amp;lt;h3&amp;gt;&lt;/h3&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;&amp;lt;h1&amp;gt;-headings&lt;/li&gt;
-      &lt;li&gt;&amp;lt;h2&amp;gt;-headings&lt;/li&gt;
-      &lt;li&gt;&amp;lt;h3&amp;gt;-headings&lt;/li&gt;
-      &lt;li&gt;&amp;lt;h4&amp;gt;-headings&lt;/li&gt;
-      &lt;li&gt;&amp;lt;h5&amp;gt;-headings&lt;/li&gt;
-      &lt;li&gt;&amp;lt;h6&amp;gt;-headings&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;h4 id=&quot;heading-in-volkhov-lth4gt&quot;&gt;Heading in Volkhov &amp;lt;h4&amp;gt;&lt;/h4&gt;
-
-    &lt;p&gt;As a four-weight family it is well-suited for complex text environments being economic and legible, contemporary and prominent. Many of its design solutions relate to this purpose: large open counters, rather short descenders, and brutal asymmetric serifs.&lt;/p&gt;
-
-    &lt;h4 id=&quot;heading-in-volkhov-lth5gt&quot;&gt;Heading in Volkhov &amp;lt;h5&amp;gt;&lt;/h4&gt;
-
-    &lt;p&gt;Spacing in Bold is slightly increased compared to the normal weight, because the bold mass is mostly grown inwards. The Italic has a steep angle and a distinctive calligraphically reminiscent character, as a counterpart to the rigorous Regular.&lt;/p&gt;
-
-    &lt;h2 id=&quot;modular-scale&quot;&gt;Modular Scale&lt;/h2&gt;
-
-    &lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; explores the &lt;em&gt;2:3 perfect fifth&lt;/em&gt; modular scale created with &lt;a href=&quot;http://modularscale.com/&quot;&gt;www.modular-scale.com&lt;/a&gt;. This is the modular scale of  &lt;em&gt;Feeling Responsive&lt;/em&gt;.&lt;/p&gt;
-
-    &lt;p&gt;44px @ 1:1.5 – Ideal text size&lt;br /&gt;
-16px @ 1:1.5 – Important number&lt;/p&gt;
-
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;Modular Scale&lt;/th&gt;
-          &lt;th&gt; &lt;/th&gt;
-          &lt;th&gt; &lt;/th&gt;
-          &lt;th&gt; &lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;44.000&lt;/td&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;2.75&lt;/td&gt;
-          &lt;td&gt;338.462&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;36.000&lt;/td&gt;
-          &lt;td&gt;0.818&lt;/td&gt;
-          &lt;td&gt;2.25&lt;/td&gt;
-          &lt;td&gt;276.923&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;29.333&lt;/td&gt;
-          &lt;td&gt;0.667&lt;/td&gt;
-          &lt;td&gt;1.833&lt;/td&gt;
-          &lt;td&gt;225.638&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;24.000&lt;/td&gt;
-          &lt;td&gt;0.545&lt;/td&gt;
-          &lt;td&gt;1.5&lt;/td&gt;
-          &lt;td&gt;184.615&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;19.555&lt;/td&gt;
-          &lt;td&gt;0.444&lt;/td&gt;
-          &lt;td&gt;1.222&lt;/td&gt;
-          &lt;td&gt;150.423&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;16.000&lt;/td&gt;
-          &lt;td&gt;0.364&lt;/td&gt;
-          &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;123.077&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-
-    &lt;h2 class=&quot;t60&quot; id=&quot;typographical-elements&quot;&gt;Typographical Elements&lt;/h2&gt;
-
-    &lt;p&gt;Here you’ll find the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list&quot;&gt;complete list of HTML5-Tags&lt;/a&gt; and this is how they look like.&lt;/p&gt;
-
-    &lt;h3 id=&quot;lthrgt-horizontal-line&quot;&gt;&amp;lt;hr&amp;gt; Horizontal Line&lt;/h3&gt;
-    &lt;hr /&gt;
-
-    &lt;h3 id=&quot;ltpregt-displaying-code&quot;&gt;&amp;lt;pre&amp;gt; Displaying Code&lt;/h3&gt;
-    &lt;pre&gt;&lt;code&gt;&amp;lt;html&amp;gt;
-    &amp;lt;head&amp;gt;
-        &amp;lt;title&amp;gt;Code Blocks&amp;lt;/title&amp;gt;
-    &amp;lt;/head&amp;gt;
-    &amp;lt;body&amp;gt;&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-    &lt;h3 id=&quot;ltblockquotegt-quotation&quot;&gt;&amp;lt;blockquote&amp;gt; Quotation&lt;/h3&gt;
-    &lt;blockquote&gt;Everything happens for a reason. (Britney Spears)&lt;/blockquote&gt;
-
-    &lt;h3 id=&quot;ltblockquotegt-and-ltcitegt--together&quot;&gt;&amp;lt;blockquote&amp;gt; and &amp;lt;cite&amp;gt;  together&lt;/h3&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;Age is an issue of mind over matter. If you don’t mind, it doesn’t matter.
-&lt;cite&gt;Mark Twain&lt;/cite&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;h3 id=&quot;ltolgt-ordered-lists&quot;&gt;&amp;lt;ol&amp;gt; Ordered Lists&lt;/h3&gt;
-
-    &lt;ol&gt;
-      &lt;li&gt;Ordered List&lt;/li&gt;
-      &lt;li&gt;Second List Item&lt;/li&gt;
-      &lt;li&gt;Third List Item
-        &lt;ol&gt;
-          &lt;li&gt;Second Level First Item&lt;/li&gt;
-          &lt;li&gt;Second Level Second Item&lt;/li&gt;
-          &lt;li&gt;Second Level Third Item
-            &lt;ol&gt;
-              &lt;li&gt;And a third level First Item&lt;/li&gt;
-              &lt;li&gt;And a third level Second Item&lt;/li&gt;
-              &lt;li&gt;And a third level Third Item&lt;/li&gt;
-            &lt;/ol&gt;
-          &lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Fourth List Item&lt;/li&gt;
-      &lt;li&gt;Fifth List Item&lt;/li&gt;
-    &lt;/ol&gt;
-
-    &lt;h3 id=&quot;ltulgt-unordered-lists&quot;&gt;&amp;lt;ul&amp;gt; Unordered Lists&lt;/h3&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Unordered List&lt;/li&gt;
-      &lt;li&gt;Second List Item&lt;/li&gt;
-      &lt;li&gt;Third List Item
-        &lt;ul&gt;
-          &lt;li&gt;Second Level First Item&lt;/li&gt;
-          &lt;li&gt;Second Level Second Item&lt;/li&gt;
-          &lt;li&gt;Second Level Third Item
-            &lt;ul&gt;
-              &lt;li&gt;And a third level First Item&lt;/li&gt;
-              &lt;li&gt;And a third level Second Item&lt;/li&gt;
-              &lt;li&gt;And a third level Third Item&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Fourth List Item&lt;/li&gt;
-      &lt;li&gt;Fifth List Item&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;h3 id=&quot;ltdlgt-definition-lists&quot;&gt;&amp;lt;dl&amp;gt; Definition Lists&lt;/h3&gt;
-
-    &lt;dl&gt;
-      &lt;dt&gt;Definition List&lt;/dt&gt;
-      &lt;dd&gt;Bacon ipsum dolor sit amet spare ribs brisket ribeye, andouille sirloin bresaola frankfurter corned beef capicola bacon. Salami beef ribs sirloin, short loin hamburger shoulder t-bone.&lt;/dd&gt;
-      &lt;dt&gt;Beef ribs jowl swine porchetta&lt;/dt&gt;
-      &lt;dd&gt;Sirloin tenderloin swine frankfurter pork loin pork capicola ham hock strip steak ribeye beef ribs. Hamburger t-bone ribeye ham prosciutto bresaola.&lt;/dd&gt;
-      &lt;dt&gt;Pancetta flank sirloin pork&lt;/dt&gt;
-      &lt;dd&gt;short ribs shankle prosciutto landjaeger. Beef ribs turkey shoulder drumstick. Leberkas pork belly ribeye, bresaola jerky strip steak tenderloin bacon landjaeger short ribs beef ribs. Flank pork chop fatback tail kielbasa filet mignon jowl landjaeger bresaola tongue corned beef biltong.&lt;/dd&gt;
-      &lt;dd&gt;Landjaeger spare ribs fatback corned beef tenderloin drumstick, swine chicken beef turkey biltong doner tri-tip filet mignon. &lt;/dd&gt;
-    &lt;/dl&gt;
-
-    &lt;h3 id=&quot;ltagt&quot;&gt;&amp;lt;a&amp;gt;&lt;/h3&gt;
-    &lt;p&gt;&lt;a href=&quot;http://phlow.de/&quot;&gt;Links&lt;/a&gt; make the web exceptional.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltemgt&quot;&gt;&amp;lt;em&amp;gt;&lt;/h3&gt;
-    &lt;p&gt;Let’s &lt;em&gt;emphasize&lt;/em&gt; how important responsive webdesign is.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltstronggt&quot;&gt;&amp;lt;strong&amp;gt;&lt;/h3&gt;
-    &lt;p&gt;This looks like &lt;strong&gt;bold&lt;/strong&gt; text.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltsmallgt&quot;&gt;&amp;lt;small&amp;gt;&lt;/h3&gt;
-    &lt;p&gt;&lt;small&gt;This is small text.&lt;/small&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltsgt&quot;&gt;&amp;lt;s&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;It’s nice getting things done. Just strike through &lt;s&gt;finished tasks&lt;/s&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltcitegt&quot;&gt;&amp;lt;cite&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;&lt;cite&gt;Albert Einstein&lt;/cite&gt;&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltqgt&quot;&gt;&amp;lt;q&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;If you use &amp;lt;q&amp;gt; your text gets &lt;q&gt;automagically quotes around the text passage&lt;/q&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltdfngt&quot;&gt;&amp;lt;dfn&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;The &amp;lt;dfn&amp;gt; tag is a phrase tag. It defines a &lt;dfn&gt;definition term&lt;/dfn&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltabbrgt&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;The &lt;abbr title=&quot;World Health Organization&quot;&gt;WHO&lt;/abbr&gt; was founded in 1948.&lt;/p&gt;
-
-    &lt;h3 id=&quot;lttimegt&quot;&gt;&amp;lt;time&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;The concert took place on &lt;time datetime=&quot;2001-05-15 19:00&quot;&gt;May 15&lt;/time&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltcodegt&quot;&gt;&amp;lt;code&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;Some &lt;code&gt;code: lucida console&lt;/code&gt; displayed.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltvargt&quot;&gt;&amp;lt;var&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;The &amp;lt;var&amp;gt; tag is a phrase tag. It defines a &lt;var&gt;variable&lt;/var&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltsampgt&quot;&gt;&amp;lt;samp&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;Text surrounded by &amp;lt;samp&amp;gt; &lt;samp&gt;looks like this in monospace&lt;/samp&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltkbdgt&quot;&gt;&amp;lt;kbd&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;Copycats enjoy pressing &lt;kbd&gt;CMD&lt;/kbd&gt; + &lt;kbd&gt;c&lt;/kbd&gt; and &lt;kbd&gt;CMD&lt;/kbd&gt; + &lt;kbd&gt;v&lt;/kbd&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltsubgt&quot;&gt;&amp;lt;sub&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;This text &lt;sub&gt;lays low&lt;/sub&gt; and chills a bit.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltsupgt&quot;&gt;&amp;lt;sup&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;This text &lt;sup&gt;gets high&lt;/sup&gt; above the clouds.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltigt&quot;&gt;&amp;lt;i&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;This looks &lt;i&gt;italic&lt;/i&gt;.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltbgt&quot;&gt;&amp;lt;b&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;This looks &lt;b&gt;bold&lt;/b&gt;, too.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltugt&quot;&gt;&amp;lt;u&amp;gt;&lt;/h3&gt;
-
-    &lt;div&gt;&lt;p&gt;&lt;u&gt;Underlining&lt;/u&gt; content for emphasize is not the best choice. You can&#39;t read it so well.&lt;/p&gt;&lt;/div&gt;
-
-    &lt;h3 id=&quot;ltmarkgt&quot;&gt;&amp;lt;mark&amp;gt;&lt;/h3&gt;
-    &lt;p&gt;Let’s &lt;mark&gt;mark this hint&lt;/mark&gt; to give you a clue.&lt;/p&gt;
-
-    &lt;h3 id=&quot;ltbrgt&quot;&gt;&amp;lt;br&amp;gt;&lt;/h3&gt;
-
-    &lt;p&gt;Need a break? I give you three!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-    &lt;h1 id=&quot;lth1gt-heading-in-volkhov&quot;&gt;&amp;lt;h1&amp;gt;-Heading in Volkhov&lt;/h1&gt;
-
-    &lt;h2 id=&quot;lth2gt-heading-in-volkhov&quot;&gt;&amp;lt;h2&amp;gt;-Heading in Volkhov&lt;/h2&gt;
-
-    &lt;h3 id=&quot;lth3gt-heading-in-volkhov&quot;&gt;&amp;lt;h3&amp;gt;-Heading in Volkhov&lt;/h3&gt;
-
-    &lt;h4 id=&quot;lth4gt-heading-in-volkhov&quot;&gt;&amp;lt;h4&amp;gt;-Heading in Volkhov&lt;/h4&gt;
-
-    &lt;h5 id=&quot;lth5gt-heading-in-volkhov&quot;&gt;&amp;lt;h5&amp;gt;-Heading in Volkhov&lt;/h5&gt;
-
-    &lt;h5 id=&quot;lth6gt-heading-in-volkhov&quot;&gt;&amp;lt;h6&amp;gt;-Heading in Volkhov&lt;/h5&gt;
-
-    &lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
-
-    &lt;p&gt;Even tables are responsive thanks to foundation. A table can consist of these elements.&lt;/p&gt;
-
-    &lt;table&gt;
-  &lt;caption&gt;&amp;lt;table&amp;gt; defines an HTML table&lt;/caption&gt;
-  &lt;colgroup&gt;
-    &lt;col span=&quot;1&quot; style=&quot;width: 15%;&quot; /&gt;
-    &lt;col span=&quot;1&quot; style=&quot;width: 50%;&quot; /&gt;
-    &lt;col span=&quot;1&quot; style=&quot;width: 35%;&quot; /&gt;
-  &lt;/colgroup&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;HTML Tag&lt;/th&gt;
-      &lt;th&gt;Defintion&lt;/th&gt;
-      &lt;th&gt;Style&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;caption&amp;gt;&lt;/td&gt;
-      &lt;td&gt;defines a table caption&lt;/td&gt;
-      &lt;td&gt;&lt;code&gt;font-weight: bold;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;colgroup&amp;gt;&lt;/td&gt;
-      &lt;td&gt;specifies a group of one or more columns in a table for 
-formatting. The &amp;lt;colgroup&amp;gt; tag is useful for applying styles to entire columns, instead of repeating the styles for each cell, for each row.&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;col&amp;gt;&lt;/td&gt;
-      &lt;td&gt;specifies column properties for each column within a `&amp;lt;colgroup&amp;gt;` 
-element&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;thead&amp;gt;&lt;/td&gt;
-      &lt;td&gt;is used to group header content in an HTML table&lt;/td&gt;
-      &lt;td&gt;&lt;code&gt;font-weight: bold;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;tbody&amp;gt;&lt;/td&gt;
-      &lt;td&gt;is used to group the body content in an HTML table&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;tr&amp;gt;&lt;/td&gt;
-      &lt;td&gt;defines a row in an HTML table&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;th&amp;gt;&lt;/td&gt;
-      &lt;td&gt;defines a header cell in an HTML table&lt;/td&gt;
-      &lt;td&gt;&lt;code&gt;font-weight: bold;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;td&amp;gt;&lt;/td&gt;
-      &lt;td&gt;defines a standard cell in an HTML table&lt;/td&gt;
-      &lt;td&gt;&lt;code&gt;font-weight: normal;&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&amp;lt;tfoot&amp;gt;&lt;/td&gt;
-      &lt;td&gt;is used to group footer content in an HTML table&lt;/td&gt;
-      &lt;td&gt;no styling needed&lt;/td&gt;
-    &lt;/tr&gt;
-
-
-
-
-
-
-
-
-&lt;!-- /.medium-8.columns --&gt;
-&lt;!-- /.row --&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-  &lt;/div&gt;&lt;/div&gt;
-</description>
-        <pubDate>Mon, 16 Nov 2015 00:00:00 -0500</pubDate>
-        <link>http://kathleentigue.com/design/typography/</link>
-        <guid isPermaLink="true">http://kathleentigue.com/design/typography/</guid>
-      </item>
+    <link>http://Kaffys.github.io/</link>
+    <atom:link href="http://Kaffys.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Now with Comments!</title>
@@ -437,301 +13,464 @@ element&lt;/td&gt;
 &lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 00:00:00 -0500</pubDate>
-        <link>http://kathleentigue.com/design/comments/</link>
-        <guid isPermaLink="true">http://kathleentigue.com/design/comments/</guid>
+        <link>http://Kaffys.github.io/design/comments/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/design/comments/</guid>
       </item>
     
       <item>
-        <title>No Header</title>
-        <description>&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Wether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:&lt;/p&gt;
+        <title>Lit Review - Patents</title>
+        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
+&lt;p&gt;Google&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;header: no
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
+&lt;p&gt;Google Open Patent Non-Assertion&lt;/p&gt;
 
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;https://www.google.com/patents/opnpledge/pledge/&lt;/p&gt;
 
-&lt;ul class=&quot;side-nav&quot;&gt;
+&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
+&lt;p&gt;Today&lt;/p&gt;
 
-  
+&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
+&lt;p&gt;Google believes that FOSS is important, so they are allowing users to use their patents assuming they follow the guidelines they posted.&lt;/p&gt;
 
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
+&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Free or Open Source Software is a very important tool for fostering innovation&lt;/li&gt;
+  &lt;li&gt;Google and things they own won’t sue you&lt;/li&gt;
+  &lt;li&gt;It allows users to be innovative and use some of Google’s many resources  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;legalese is poopy garbage&lt;/li&gt;
+  &lt;li&gt;no profits, but that’s understandable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;What are some examples of people using this?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;p&gt;It was alright. &lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 11 Oct 2015 00:00:00 -0400</pubDate>
-        <link>http://kathleentigue.com/design/no-header/</link>
-        <guid isPermaLink="true">http://kathleentigue.com/design/no-header/</guid>
+        <pubDate>Thu, 19 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/litreview4/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview4/</guid>
       </item>
     
       <item>
-        <title>Header With Text</title>
-        <description>&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+        <title>TSM vs CLG - Who will have pink hair?</title>
+        <description>&lt;h1 id=&quot;tsm-vs-clg---the-rivalry&quot;&gt;TSM vs CLG - The Rivalry&lt;/h1&gt;
+&lt;p&gt;Team Solo Mid(TSM) and Counter Logic Gaming(CLG) are currently the top two teams Week 4 in the League Championship Series, or LCS. Over the past few years, their rosters have completely changed. But that doesn’t stop the die hard fans from tuning into their streams every Saturday and Sunday night. TSM has the mid lane star Soren “Bjergsen” Bjerg and CLG has the king of the jungle Marcel “Dexter” Feldkamp, both are big names in the League of Legends eSports community.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;header:
-    title: header with text
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&quot;week-4&quot;&gt;Week 4&lt;/h1&gt;
+&lt;p&gt;This week TSM and CLG are playing each other in the final match of the weekend. Both teams are tied for first place, both with a 6-1 record. This game is the highlight of the weekend, Riot Games has brought on an additional caster as well as two former pro players to speak on the analyst desk after the game. But there is more riding on this game then just a first place title…&lt;/p&gt;
 
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
+&lt;p&gt;Two team members HotshotGG from CLG or Reginald from TSM have placed a bet. The loser of the bet will have to dye their hair pink for the remainder of the LCS split. One team will come out on first, one will have beautiful hair. Who will it be?&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
-        <link>http://kathleentigue.com/design/header-with-text/</link>
-        <guid isPermaLink="true">http://kathleentigue.com/design/header-with-text/</guid>
+        <pubDate>Sun, 15 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/hfoss/TSMCLG/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/hfoss/TSMCLG/</guid>
       </item>
     
       <item>
-        <title>Header With Logo Only</title>
-        <description>&lt;p&gt;No front matter code needed.&lt;/p&gt;
+        <title>Lit Review - Terms of Services</title>
+        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
+&lt;p&gt;Apple&lt;/p&gt;
 
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
+&lt;p&gt;Apple Terms of Service&lt;/p&gt;
 
-&lt;ul class=&quot;side-nav&quot;&gt;
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;https://www.apple.com/legal/internet-services/itunes/us/terms.html&lt;/p&gt;
 
-  
+&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
+&lt;p&gt;Last updated: September 17, 2014&lt;/p&gt;
 
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
+&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
+&lt;p&gt;Apple’s terms of service for their customers. Talks a lot about purchases on the iTunes Store and purchasing apple products. These terms of services apply to a majority of the population, sometimes twice over.&lt;/p&gt;
 
-  
+&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Families man. &lt;/li&gt;
 &lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 09 Oct 2014 00:00:00 -0400</pubDate>
-        <link>http://kathleentigue.com/design/header-logo-only/</link>
-        <guid isPermaLink="true">http://kathleentigue.com/design/header-logo-only/</guid>
-      </item>
-    
-      <item>
-        <title>Header Image With Background Color</title>
-        <description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;http://kathleentigue.com/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;alert-box radius alert&quot;&gt;WARNING: To make this work the value of &lt;em&gt;background-color&lt;/em&gt; must be inbetween quotes.&lt;/div&gt;
-
-&lt;pre&gt;&lt;code&gt;header:
-    image:  &quot;header_unsplash_2-970x.jpg&quot;
-    background-color:  &quot;#fabb00&quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 09 Oct 2014 00:00:00 -0400</pubDate>
-        <link>http://kathleentigue.com/design/header-image-color/</link>
-        <guid isPermaLink="true">http://kathleentigue.com/design/header-image-color/</guid>
-      </item>
-    
-      <item>
-        <title>Header with a Full-Width-Image</title>
-        <description>&lt;p&gt;It’s so easy to do. Just define in front matter your image.&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;header:
-   image_fullwidth: &quot;unsplash_brooklyn-bridge_header.jpg&quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 09 Oct 2014 00:00:00 -0400</pubDate>
-        <link>http://kathleentigue.com/design/header-full-width-image/</link>
-        <guid isPermaLink="true">http://kathleentigue.com/design/header-full-width-image/</guid>
-      </item>
-    
-      <item>
-        <title>Header Image With Pattern</title>
-        <description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;http://kathleentigue.com/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;header:
-    image:  &quot;header_unsplash_2-970x.jpg&quot;
-    pattern:  &quot;pattern_concrete.jpg&quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Wed, 08 Oct 2014 00:00:00 -0400</pubDate>
-        <link>http://kathleentigue.com/design/header-image-pattern/</link>
-        <guid isPermaLink="true">http://kathleentigue.com/design/header-image-pattern/</guid>
-      </item>
-    
-      <item>
-        <title>A Beautiful Gallery</title>
-        <description>&lt;p&gt;You just need to choose a template like the &lt;a href=&quot;http://kathleentigue.com/design/page/&quot;&gt;&lt;code&gt;page&lt;/code&gt;&lt;/a&gt;- or &lt;a href=&quot;http://kathleentigue.com/design/page-fullwidth/&quot;&gt;&lt;code&gt;page-fullwidth&lt;/code&gt;&lt;/a&gt;-template and than use some foundation magic.&lt;/p&gt;
-
-&lt;ul class=&quot;clearing-thumbs small-block-grid-3&quot; data-clearing=&quot;&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/images/unsplash_1.jpg&quot;&gt;&lt;img data-caption=&quot;All images by Unsplash.com&quot; class=&quot;th&quot; src=&quot;http://kathleentigue.com/images/unsplash_1_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/images/unsplash_2.jpg&quot;&gt;&lt;img data-caption=&quot;All images by Unsplash.com&quot; class=&quot;th&quot; src=&quot;http://kathleentigue.com/images/unsplash_2_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/images/unsplash_3.jpg&quot;&gt;&lt;img data-caption=&quot;All images by Unsplash.com&quot; class=&quot;th&quot; src=&quot;http://kathleentigue.com/images/unsplash_3_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/images/unsplash_4.jpg&quot;&gt;&lt;img data-caption=&quot;All images by Unsplash.com&quot; class=&quot;th&quot; src=&quot;http://kathleentigue.com/images/unsplash_4_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/images/unsplash_5.jpg&quot;&gt;&lt;img data-caption=&quot;All images by Unsplash.com&quot; class=&quot;th&quot; src=&quot;http://kathleentigue.com/images/unsplash_5_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/images/unsplash_6.jpg&quot;&gt;&lt;img data-caption=&quot;All images by Unsplash.com&quot; class=&quot;th&quot; src=&quot;http://kathleentigue.com/images/unsplash_6_bus_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clearing-lightbox-code&quot;&gt;Clearing Lightbox Code&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://foundation.zurb.com/docs/components/clearing.html&quot;&gt;Clearing Lightbox&lt;/a&gt; is so flexible especially when using the &lt;a href=&quot;http://foundation.zurb.com/docs/components/block_grid.html&quot;&gt;block grid&lt;/a&gt;. For extensive documentation visit the &lt;a href=&quot;http://foundation.zurb.com/docs/components/clearing.html&quot;&gt;foundation docs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;ul&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;clearing-thumbs small-block-grid-3&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-clearing&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;path/to/your/img&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-caption=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;caption 1&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;path/to/your/thumbnail&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;path/to/your/img&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-caption=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;caption 2&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;path/to/your/thumbnail&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;path/to/your/img&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-caption=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;caption 3&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;path/to/your/thumbnail&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;A Beautiful Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://kathleentigue.com/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 15 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://kathleentigue.com/design/gallery/</link>
-        <guid isPermaLink="true">http://kathleentigue.com/design/gallery/</guid>
-      </item>
-    
-      <item>
-        <title>Video Template</title>
-        <description>&lt;h2 id=&quot;about-the-video-by-kutiman&quot;&gt;About the video by Kutiman&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. &lt;cite&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Kutiman&quot;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+  &lt;p&gt;iOS 8 and/or OS X Yosemite are required to start and join a Family.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Source: &lt;a href=&quot;https://www.youtube.com/watch?v=WoHxoz_0ykI&quot;&gt;Kutiman – Thru You Too – »Give It Up«&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Families man holy shit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;BY INVITING FAMILY MEMBERS TO JOIN A FAMILY, THE ORGANIZER AGREES THAT ALL FAMILY MEMBER PURCHASES ARE AUTHORIZED BY AND ARE THE RESPONSIBILITY OF THE ORGANIZER, EVEN IF THE ORGANIZER WAS UNAWARE OF ANY PARTICULAR PURCHASE, IF A FAMILY MEMBER EXCEEDED HIS OR HER AUTHORITY AS GRANTED BY THE ORGANIZER, OR IF MULTIPLE FAMILY MEMBERS PURCHASE THE SAME PRODUCT.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;iTunes will only use your personal information to help you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apple will, from time to time, automatically collect information   &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;(iv) You shall be authorized to burn an audio playlist up to seven times.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;But what if I’m in two families with 6 people each??!?!? &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apple shall not be responsible for any losses arising out of the unauthorized use of your Account.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;:(&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Families man. Why are they so complicated?&lt;/li&gt;
+  &lt;li&gt;These terms of services affect anyone who owns an iPhone, iPad or an Apple computer. How do these people know what a family is, how many people actually read these things?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;p&gt;It was alright. I learned some things about my cell phone and my laptop and my tablet.&lt;/p&gt;
+
 </description>
-        <pubDate>Sun, 14 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://kathleentigue.com/design/video/</link>
-        <guid isPermaLink="true">http://kathleentigue.com/design/video/</guid>
+        <pubDate>Thu, 12 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/litreview2/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview2/</guid>
+      </item>
+    
+      <item>
+        <title>HFOSS - Quiz 1</title>
+        <description>&lt;h1 id=&quot;pillars&quot;&gt;Pillars&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Open Exchange&lt;/li&gt;
+  &lt;li&gt;Participation&lt;/li&gt;
+  &lt;li&gt;Rapid Prototyping&lt;/li&gt;
+  &lt;li&gt;Meritocracy&lt;/li&gt;
+  &lt;li&gt;Community&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;general-principals&quot;&gt;8 General Principals&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Make it interesting and make sure it happens&lt;/li&gt;
+  &lt;li&gt;Scratch an itch&lt;/li&gt;
+  &lt;li&gt;Minimize how many times you have to reinvent the wheel&lt;/li&gt;
+  &lt;li&gt;Solve problems through parallel work whenever possible&lt;/li&gt;
+  &lt;li&gt;Leverage the law of large numbers&lt;/li&gt;
+  &lt;li&gt;Document what you do&lt;/li&gt;
+  &lt;li&gt;Release early and often&lt;/li&gt;
+  &lt;li&gt;Talk a lot&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;similarities&quot;&gt;Similarities&lt;/h1&gt;
+&lt;p&gt;Same principles of making open source software open to whoever wants to contribute.&lt;/p&gt;
+
+&lt;h1 id=&quot;differences&quot;&gt;Differences&lt;/h1&gt;
+&lt;p&gt;General Principals are people, Pillars is a definition of open source.&lt;/p&gt;
+
+&lt;h1 id=&quot;whos-keen-analysis-did-weber-draw-heavily-upon&quot;&gt;Whos “keen analysis” did Weber “Draw Heavily” upon?”&lt;/h1&gt;
+&lt;p&gt;Eric Steven Raymond&lt;/p&gt;
+
+&lt;h1 id=&quot;what-was-the-title-of-this-keen-analysis&quot;&gt;What was the title of this “keen analysis?”&lt;/h1&gt;
+&lt;p&gt;The Cathedral and the Bazaar &lt;/p&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;http://www.catb.org/esr/writings/cathedral-bazaar/&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/hfoss/quiz/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/hfoss/quiz/</guid>
+      </item>
+    
+      <item>
+        <title>Lit Review - GNU GPL</title>
+        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
+&lt;p&gt;Software Freedom Law Center, Free Software Foundation, Bradley M Kuhn.&lt;/p&gt;
+
+&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
+&lt;p&gt;Copyleft the the GNU General Public License - A Comprehensive Tutorial and Guide. Chapter 1&lt;/p&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf&lt;/p&gt;
+
+&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
+&lt;p&gt;2014&lt;/p&gt;
+
+&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
+&lt;p&gt;The book talks about copyright laws when it comes to Free and Open Source Software. There are a ton of different licenses and the book helps the reader understand the differences between each one.  &lt;/p&gt;
+
+&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;I wrote in a blog post earlier, that I didn’t quite understand the difference between copyleft and copyright, and this chapter clarified a lot of it.&lt;/li&gt;
+  &lt;li&gt;This chapter addresses a lot of misconceptions about the GPL.&lt;/li&gt;
+  &lt;li&gt;Four Freedoms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;I don’t know why I would want to use the GPL and why not.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;“Anti Hacker” movements, and why this would hurt Software Freedom movements?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;p&gt;As someone who hasn’t had any exposure to the GNU GPL, I learned a lot. I learned a lot about copyleft. I would recommend this text to anyone who has not been exposed to these concepts. &lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/litreview2/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview2/</guid>
+      </item>
+    
+      <item>
+        <title>Left Shark - Can he be copyrighted?</title>
+        <description>&lt;h1 id=&quot;superb-owl&quot;&gt;Superb Owl&lt;/h1&gt;
+&lt;p&gt;This year’s Super Bowl was another huge another extravaganza. With advertisements selling for millions of dollars apiece, over 100 million viewers tuning in and (American) football players with millions of dollars worth of contracts and prizes on the line, it’s anything but a minor production. There were many stars of this game, Richard Sherman of the Seattle Seahawks, MVP Tom Brady of the New England Patriots and even the stunning half time performance by pop-singer Katy Perry. But the true star of the game was someone in a giant shark costume. He has been dubbed by his adoring fans as “The Left Shark”, pictured below. The Patriots may have won this years Super Bowl, but the Left Shark will be the real champion.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://kaffys.github.io/leftshark.gif&quot; alt=&quot;Left Shark&quot; title=&quot;I&#39;ve always liked Leftie anyway&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are IndieGoGos selling Left Shark costume, valentines day cards to give to your lovers, and of course Left Shark stickers. One of Left Shark’s fans &lt;a href=&quot;http://www.shapeways.com/shops/amznfx&quot;&gt;Fernando Sosa&lt;/a&gt; created a beautiful 3D model, and posted is on the website Shapeways, a website where you can buy 3D printed models, so that every fan can have their very own shark. But recently, Shapeways has received a cease and desist letter from Katy Perry’s legal team. Which you can download and read &lt;a href=&quot;http://kaffys.github.io/leftshark.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;can-they-do-this&quot;&gt;Can they do this?&lt;/h1&gt;
+&lt;p&gt;So Katy Perry and her team are claiming copyright on the shark costume. Is that within their rights? In addition to that, does Katy Perry even legally own that copyright?&lt;/p&gt;
+
+&lt;p&gt;There was a court case in 1987 called Brandir International, Inc vs Cascade Pacific Lumber Co. Brandir designed an award winning metal bike rack, Cascade began to copy the bike rack, and Brandir sued for copyright infringement. Cascade used the argument that because they were not works of art, they are useful articles and could not be copyrighted. The court ruled that:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“If design elements reflect a merger of aesthetic and functional considerations, the artist aspects of a work cannot be said to be conceptually separable from the utilitarian elements. Conversely, where design elements can be identified as reflecting the designer’s artistic judgment exercised independently of functional influences, conceptual separability exists.” &lt;a href=&quot;http://openjurist.org/834/f2d/1142/brandir-international-inc-v-cascade-pacific-lumber-co-l&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So let’s break this legalese down. The court has to look at the the work and decide if the work was made for design reasons, or aesthetic reasons. Let’s use a plate as an example. There are only so many ways you can make a flat plate. But, you can change the designs on the plate, and those designs can be copyrighted. The world utilitarian means that it was designed to be practical rather that pretty.&lt;/p&gt;
+
+&lt;h1 id=&quot;eli5&quot;&gt;ELI5&lt;/h1&gt;
+&lt;p&gt;Left Shark is probably not be copyrightable because it qualifies as a “useful article”. Examples of useful articles are furniture, machines, dinnerware, and most importantly clothing! And since it is a useful article, it cannot be copyrighted. There are so many ways you can make a shark costume. (Like, I don’t know, a 3D model?)&lt;/p&gt;
+
+&lt;h1 id=&quot;so-who-owns-it&quot;&gt;So…. who owns it?&lt;/h1&gt;
+&lt;p&gt;I do not think Katy Perry has any legal claim to the “Left Shark” fad that is going on right now. In addition to these facts, Katy Perry said that because of her contract with the NHL, the NHL had more control over her halftime show than she did. &lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/leftshark/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/leftshark/</guid>
+      </item>
+    
+      <item>
+        <title>Lit Review - Open Source</title>
+        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
+&lt;p&gt;Steve Weber&lt;/p&gt;
+
+&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
+&lt;p&gt;What is Open Source and How Does it Work?&lt;/p&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;http://hfoss-ritigm.rhcloud.com/static/books/Weber-SuccessofOpenSource-Chap3.pdf&lt;/p&gt;
+
+&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
+&lt;p&gt;2004&lt;/p&gt;
+
+&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
+&lt;p&gt;Talked about how and what Open Source software is. &lt;/p&gt;
+
+&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
+&lt;p&gt;-“large-scale software engineering to a prehistoric tar pit.” made me giggle on the inside when I think about programmers fighting each other.
+-Tying in some of the things I learned about GPL in biz&amp;amp;legal into HFOSS.
+-8 general principals that capture what people do in Open Source. &lt;/p&gt;
+
+&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
+&lt;p&gt;-Too long, lost my interest. 
+-Went super in depth on the the nitty gritty when those pages could be used to talk more about the point of the article, What is Open Source?
+-Very dense. Would not float in water.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
+&lt;p&gt;-What are some other early open source projects?
+-What are these people/companies doing in todays world?&lt;/p&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;p&gt;It was a very long text. As someone who was already interested in Open Source software, I found a lot of the text a little obvious, and way to detailed. I would not recommended this text to someone who was just getting into Open Source software.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 09 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/hfoss/litreview1/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/hfoss/litreview1/</guid>
+      </item>
+    
+      <item>
+        <title>Left Shark</title>
+        <description>&lt;h1 id=&quot;splattershmup-coding-stylestandards-sheet&quot;&gt;Splattershmup Coding Style/Standards Sheet&lt;/h1&gt;
+
+&lt;h2 id=&quot;c-sharp&quot;&gt;C-Sharp&lt;/h2&gt;
+&lt;p&gt;### Spacing&lt;/p&gt;
+
+&lt;h5 id=&quot;spaces&quot;&gt;Spaces&lt;/h5&gt;
+&lt;p&gt;Use four spaces for indenting. Do not use a hardware tab to indent.&lt;/p&gt;
+
+&lt;h5 id=&quot;braces&quot;&gt;Braces&lt;/h5&gt;
+&lt;p&gt;Put braces on the next line, everywhere (if, else, functions, structures, class definitions, etc.)&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+if(condition)
+{
+	// Code
+}
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The else statement starts on the next line after the last closing brace.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+if(condition)
+{
+	// Code
+}
+else
+{
+	// More Code
+}
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;floating-point-precision&quot;&gt;Floating Point Precision&lt;/h3&gt;
+&lt;p&gt;Use precision specification for floating point values unless there is an explicit need for a double.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+float f = 0.5f;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Instead of&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+float f = 0.5;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;And&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+float f = 1.0f;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Instead of&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+float f = 1.f;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;naming-conventions&quot;&gt;Naming Conventions&lt;/h3&gt;
+&lt;p&gt;##### Methods
+Method names should be &lt;a href=&quot;http://c2.com/cgi/wiki?UpperCamelCase&quot;&gt;pascal cased&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+void Foo();
+void FooAndBar();
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;variables&quot;&gt;Variables&lt;/h5&gt;
+&lt;p&gt;Variable names should be &lt;a href=&quot;http://c2.com/cgi/wiki?LowerCamelCase&quot;&gt;camel cased&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+int health;
+int hitCounter;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Private Variables should start with an underscore:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+int _myPrivateInt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Variables that are intended to have a constant value (although are changed in the Unity Editor) should be in all caps with underscores between words.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+int MAX_PARTICLES = 100;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Variables that are public and will be edited in the editor will have their initial values specified on their declaration line rather than in the constructor.
+##### Structs and Classes
+Struct and class names should be &lt;a href=&quot;http://c2.com/cgi/wiki?UpperCamelCase&quot;&gt;pascal cased&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+struct ExplosionData;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;enums&quot;&gt;Enums&lt;/h5&gt;
+&lt;p&gt;Enum names use the same naming convention as Classes. The enum constants should be all caps with underscores between words.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+enum Contact
+{
+	NONE,
+	EDGE,
+	MODEL_VERTEX,
+	TRM_VERTEX
+};
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;commenting&quot;&gt;Commenting&lt;/h3&gt;
+&lt;p&gt;Everything should use Microsoft’s C# XML Comments. If you are unsure of how to do this please read &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/aa288481(v=vs.71).aspx&quot;&gt;this guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;line-length&quot;&gt;Line Length&lt;/h3&gt;
+&lt;p&gt;Avoid having lines with a length greater than 80 characters. The hard limit for line length is 120 characters, at this point you should split the function call  or whatever you’re doing among different lines with appropriate indenting on the next line down.&lt;/p&gt;
+
+&lt;p&gt;This page was heavily inspired by the &lt;a href=&quot;https://github.com/Circular-Studios/Dash/wiki/Coding-Standards&quot;&gt;Dash Coding Standards Sheet&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/standardsguide/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/standardsguide/</guid>
+      </item>
+    
+      <item>
+        <title>Lit Review - FOSS Primer</title>
+        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
+&lt;p&gt;Software Freedom Law Center&lt;/p&gt;
+
+&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
+&lt;p&gt;A Legal Issues Primer for
+Open Source and Free Software Projects&lt;/p&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf&lt;/p&gt;
+
+&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
+&lt;p&gt;June 4th 2008&lt;/p&gt;
+
+&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
+&lt;p&gt;The book talks about copyright laws when it comes to Free and Open Source Software. There are a ton of different licenses and the book helps the reader understand the differences between each one.  &lt;/p&gt;
+
+&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
+&lt;p&gt;-Explains common licesnes, and what situations I would want to use them, in an easy to understand fashion, especailly for someone who is new to this (me).
+-Little bias
+-Copyleft. I’ve heard the phrase before, but never really understood it. &lt;/p&gt;
+
+&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;I wish we read a more up to date version. The world of software has changed so much over the past 6 years. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;What legal actions could be taken against someone if they break licenses? &lt;/li&gt;
+  &lt;li&gt;When does code become “mine”? When I save it, publish it, or write it?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;p&gt;This book helped me, as a student being introduced to the FOSS world, understand the differences between licenes. It was an intimidating text at first, especially coming from a legal firm. But if you take your time and truly commit to understanding the text, you will leave enlightened. &lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/litreview1/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview1/</guid>
       </item>
     
   </channel>
