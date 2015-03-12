@@ -7,6 +7,24 @@
     <atom:link href="http://Kaffys.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Women in Gaming - GDC 2015</title>
+        <description>&lt;p&gt;This year at GDC, many companies tried to open it’s doors for women in gaming. I won along with 19 other women an All-Access pass and an invite to the Women in Gaming Luncheon as well as the night event. Another friend of mine won a similar contest, and another twenty women were able to attend GDC. &lt;/p&gt;
+
+&lt;p&gt;I was able to meet the other winning students and a lot of great women in the gaming industry.  The talk that stuck out to me the most was #1reasontobe. It started as a response to #1reasonwhy hashtag that started trending on Twitter almost two years ago.  #1reasonwhy was reasons why women are NOT getting involved in the gaming industry. Examples include being treated as “booth babes” at show floors, being discriminated against while at work. #1reasonwhy took off, and shown a negative light on the gaming industry. The girl-power in the room was overwhelming, and I was very happy to be a part of the event.&lt;/p&gt;
+
+&lt;p&gt;During the #1reasontobe talk, eight women talked about their inspiring experiences in the games industry. Amy Henning, one of the women on the panel, talked about her experience in the games industry versus her former experience in the film industry. She describes her experiences in the past 25 years in the games industry as positive and described the industry as a bastion of opportunity. &lt;/p&gt;
+
+&lt;p&gt;Sela Davis, an RIT graduate working as a software engineer at Microsoft spoke about her battle with impostor syndrome. She encourages people to reach out and support each other, and listen to the support.&lt;/p&gt;
+
+&lt;p&gt;Something that I struggled with is peers saying that I’m only getting interviews because I’m a girl, which is certainly not true. I worked hard and studied hard, and I’m happy to prove it to my peers. &lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://Kaffys.github.io/design/WiGmd/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/design/WiGmd/</guid>
+      </item>
+    
+      <item>
         <title>Vale VR</title>
         <description>&lt;p&gt;Two days before GDC, Valve announced their new VR system, and offered exclusive demos at GDC. I was graced with this opportunity (Thanks Anna!) and I got to see some really cool demos.&lt;/p&gt;
 
@@ -26,8 +44,8 @@
 
 </description>
         <pubDate>Sun, 15 Nov 2015 00:00:00 -0500</pubDate>
-        <link>http://Kaffys.github.io/design/comments/</link>
-        <guid isPermaLink="true">http://Kaffys.github.io/design/comments/</guid>
+        <link>http://Kaffys.github.io/design/ValveVR/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/design/ValveVR/</guid>
       </item>
     
       <item>
@@ -441,49 +459,6 @@ enum Contact
         <pubDate>Sat, 07 Feb 2015 09:46:39 -0500</pubDate>
         <link>http://Kaffys.github.io/bizleg/standardsguide/</link>
         <guid isPermaLink="true">http://Kaffys.github.io/bizleg/standardsguide/</guid>
-      </item>
-    
-      <item>
-        <title>Lit Review - FOSS Primer</title>
-        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
-&lt;p&gt;Software Freedom Law Center&lt;/p&gt;
-
-&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
-&lt;p&gt;A Legal Issues Primer for
-Open Source and Free Software Projects&lt;/p&gt;
-
-&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
-&lt;p&gt;http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf&lt;/p&gt;
-
-&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
-&lt;p&gt;June 4th 2008&lt;/p&gt;
-
-&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
-&lt;p&gt;The book talks about copyright laws when it comes to Free and Open Source Software. There are a ton of different licenses and the book helps the reader understand the differences between each one.  &lt;/p&gt;
-
-&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
-&lt;p&gt;-Explains common licesnes, and what situations I would want to use them, in an easy to understand fashion, especailly for someone who is new to this (me).
--Little bias
--Copyleft. I’ve heard the phrase before, but never really understood it. &lt;/p&gt;
-
-&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;I wish we read a more up to date version. The world of software has changed so much over the past 6 years. &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;What legal actions could be taken against someone if they break licenses? &lt;/li&gt;
-  &lt;li&gt;When does code become “mine”? When I save it, publish it, or write it?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
-&lt;p&gt;This book helped me, as a student being introduced to the FOSS world, understand the differences between licenes. It was an intimidating text at first, especially coming from a legal firm. But if you take your time and truly commit to understanding the text, you will leave enlightened. &lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 05 Feb 2015 09:46:39 -0500</pubDate>
-        <link>http://Kaffys.github.io/bizleg/litreview1/</link>
-        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview1/</guid>
       </item>
     
   </channel>
