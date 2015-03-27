@@ -49,6 +49,21 @@
       </item>
     
       <item>
+        <title>Tap Titans - Cool Micro-transactions Bro</title>
+        <description>&lt;p&gt;Over my Spring break, I had the pleasure of having my tonsils removed. I downloaded a bunch of games on my iPhone so I could sit in my hospital bed and entertain myself between naps. One of the games I played was Tap Titans. It’s  much like the popular browser game, Cookie Clicker, and just as addicting.&lt;/p&gt;
+
+&lt;p&gt;Every time you tap the screen, you deal damage to the monster in front of you. Every 10 monsters theres a boss battle. You start the game off doing one damage per tap, but you can level up your DPS by purchasing upgrades. You can also purchase little heros that will do damage to the monsters while you are away. As of right now, I’m on Stage 79 doing 263 TRILLION points of damage every time I tap the monster. &lt;/p&gt;
+
+&lt;p&gt;What I really like about the game is how they handle their micro-transaction currency. In most games theres a currency you can get in game by playing the game (in this game its coins), and one you can get by spending real life money on (diamonds). It’s a pretty common practice, and it’s littered in almost any phone application you buy. What makes Tap Titans different is that you can also obtain Diamonds in game.&lt;/p&gt;
+
+&lt;p&gt;Every achievement you obtain, you get a certain amount of diamonds relative to how difficult the achievement is. Kill 1 thousand monsters? 15 Diamonds! Reach stage 50? 10 Diamonds! In addition to this, power-ups will randomly drop from the sky. Sometimes they will just give you things like a few Diamonds, 1 billion gold, bonus hero attack speed for x seconds. But, sometimes they will give you increased power-ups if you sit through a 5 second advertisement so you can watch a short ad and get 2 billion gold, of 10 diamonds. These are totally optional! They give you the option to decline the power-up and the advertisement, and keep playing the game, which I thought was pretty cool.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://Kaffys.github.io/design/taptitans/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/design/taptitans/</guid>
+      </item>
+    
+      <item>
         <title>Lit Review - Patents</title>
         <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
 &lt;p&gt;Google&lt;/p&gt;
@@ -338,127 +353,6 @@
         <pubDate>Mon, 09 Feb 2015 09:46:39 -0500</pubDate>
         <link>http://Kaffys.github.io/hfoss/litreview1/</link>
         <guid isPermaLink="true">http://Kaffys.github.io/hfoss/litreview1/</guid>
-      </item>
-    
-      <item>
-        <title>Left Shark</title>
-        <description>&lt;h1 id=&quot;splattershmup-coding-stylestandards-sheet&quot;&gt;Splattershmup Coding Style/Standards Sheet&lt;/h1&gt;
-
-&lt;h2 id=&quot;c-sharp&quot;&gt;C-Sharp&lt;/h2&gt;
-&lt;p&gt;### Spacing&lt;/p&gt;
-
-&lt;h5 id=&quot;spaces&quot;&gt;Spaces&lt;/h5&gt;
-&lt;p&gt;Use four spaces for indenting. Do not use a hardware tab to indent.&lt;/p&gt;
-
-&lt;h5 id=&quot;braces&quot;&gt;Braces&lt;/h5&gt;
-&lt;p&gt;Put braces on the next line, everywhere (if, else, functions, structures, class definitions, etc.)&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-if(condition)
-{
-	// Code
-}
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;The else statement starts on the next line after the last closing brace.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-if(condition)
-{
-	// Code
-}
-else
-{
-	// More Code
-}
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;floating-point-precision&quot;&gt;Floating Point Precision&lt;/h3&gt;
-&lt;p&gt;Use precision specification for floating point values unless there is an explicit need for a double.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-float f = 0.5f;
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Instead of&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-float f = 0.5;
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;And&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-float f = 1.0f;
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Instead of&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-float f = 1.f;
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;naming-conventions&quot;&gt;Naming Conventions&lt;/h3&gt;
-&lt;p&gt;##### Methods
-Method names should be &lt;a href=&quot;http://c2.com/cgi/wiki?UpperCamelCase&quot;&gt;pascal cased&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-void Foo();
-void FooAndBar();
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;variables&quot;&gt;Variables&lt;/h5&gt;
-&lt;p&gt;Variable names should be &lt;a href=&quot;http://c2.com/cgi/wiki?LowerCamelCase&quot;&gt;camel cased&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-int health;
-int hitCounter;
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Private Variables should start with an underscore:&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-int _myPrivateInt;
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Variables that are intended to have a constant value (although are changed in the Unity Editor) should be in all caps with underscores between words.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-int MAX_PARTICLES = 100;
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Variables that are public and will be edited in the editor will have their initial values specified on their declaration line rather than in the constructor.
-##### Structs and Classes
-Struct and class names should be &lt;a href=&quot;http://c2.com/cgi/wiki?UpperCamelCase&quot;&gt;pascal cased&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-struct ExplosionData;
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;enums&quot;&gt;Enums&lt;/h5&gt;
-&lt;p&gt;Enum names use the same naming convention as Classes. The enum constants should be all caps with underscores between words.&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;
-enum Contact
-{
-	NONE,
-	EDGE,
-	MODEL_VERTEX,
-	TRM_VERTEX
-};
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;commenting&quot;&gt;Commenting&lt;/h3&gt;
-&lt;p&gt;Everything should use Microsoft’s C# XML Comments. If you are unsure of how to do this please read &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/aa288481(v=vs.71).aspx&quot;&gt;this guide&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;line-length&quot;&gt;Line Length&lt;/h3&gt;
-&lt;p&gt;Avoid having lines with a length greater than 80 characters. The hard limit for line length is 120 characters, at this point you should split the function call  or whatever you’re doing among different lines with appropriate indenting on the next line down.&lt;/p&gt;
-
-&lt;p&gt;This page was heavily inspired by the &lt;a href=&quot;https://github.com/Circular-Studios/Dash/wiki/Coding-Standards&quot;&gt;Dash Coding Standards Sheet&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 07 Feb 2015 09:46:39 -0500</pubDate>
-        <link>http://Kaffys.github.io/bizleg/standardsguide/</link>
-        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/standardsguide/</guid>
       </item>
     
   </channel>
