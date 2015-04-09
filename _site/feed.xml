@@ -7,6 +7,56 @@
     <atom:link href="http://Kaffys.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Bizlegteamprop</title>
+        <description>&lt;h1 id=&quot;list-your-other-team-members-below&quot;&gt;List your other team members below&lt;/h1&gt;
+
+&lt;p&gt;Derin Yarsuvat	misterberu (at) gmail.com
+Joe Trotta	42istheanswer.whatsthequestion (at) gmail.com
+Chris Knepper	chris82thekid (at) gmail.com
+Kathleen Tigue	kat1219 (at) rit.edu&lt;/p&gt;
+
+&lt;h1 id=&quot;which-entity-did-your-team-choose-to-profile&quot;&gt;Which Entity did your team choose to profile?&lt;/h1&gt;
+&lt;p&gt;Kickstarter&lt;/p&gt;
+
+&lt;h1 id=&quot;description-of-the-organization&quot;&gt;Description of the Organization?&lt;/h1&gt;
+&lt;p&gt;Kickstarter is an organization which allows people to openly pitch product, project, and business ideas to the world, get funding for their ideas, and give rewards to the people who fund (“back”) the project. The platform also facilitates communication between the creators and backers throughout the development of the project.&lt;/p&gt;
+
+&lt;h1 id=&quot;description-of-the-project&quot;&gt;Description of the project?&lt;/h1&gt;
+&lt;p&gt;Kickstarter facilitates its crowdfunding platform through its website, kickstarter.com, through which projects are posted and contributions are accepted. The platform lets creators show assets (images, videos, etc…) related to their project, give information about the planning and timeline, and declare how much funding they need.
+All group members assist with research, compilation of information, and presentation production.&lt;/p&gt;
+
+&lt;h1 id=&quot;organizationproject-source-code-repository-url&quot;&gt;Organization/Project Source Code Repository URL?&lt;/h1&gt;
+&lt;p&gt;Kickstarter
+Kickstarter @ Github&lt;/p&gt;
+
+&lt;h1 id=&quot;what-do-you-anticipate-the-easy-parts-will-be&quot;&gt;What do you anticipate the easy parts will be?&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Getting information about the website&lt;/li&gt;
+  &lt;li&gt;Getting information about notable projects&lt;/li&gt;
+  &lt;li&gt;Getting information about the team behind Kickstarter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-do-you-anticipate-the-hard-parts-will-be&quot;&gt;What do you anticipate the hard parts will be?&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Getting information about the organization (financial filings, history, etc…)&lt;/li&gt;
+  &lt;li&gt;Understanding the relationship between Kickstarter and FOSS/FOSH/Bizleg concepts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;how-will-you-overcome-both&quot;&gt;How will you overcome both?&lt;/h1&gt;
+&lt;p&gt;It should easy to overcome any challenges we might face, given the size and relevancy of the organization. Since Kickstarter is pretty much entirely Internet-based, anything we need for the profile should be quite easy to find via the Internet.&lt;/p&gt;
+
+&lt;h1 id=&quot;if-something-goes-wrong-what-contingencies-do-you-have-in-place&quot;&gt;If something goes wrong, what contingencies do you have in place?&lt;/h1&gt;
+&lt;p&gt;Ask for help in IRC.&lt;/p&gt;
+
+&lt;h1 id=&quot;when-will-your-group-meet-regularly-outside-of-class-time&quot;&gt;When will your group meet regularly outside of class time?&lt;/h1&gt;
+&lt;p&gt;Any day we don’t have class (Monday/Wednesday/Friday), as well as virtually through the internets.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://Kaffys.github.io/BizLegTeamProp/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/BizLegTeamProp/</guid>
+      </item>
+    
+      <item>
         <title>Google Chrome - Stopping support for NPAPI plugins</title>
         <description>&lt;p&gt;One of my favorite games growing up was RuneScape. I would spend hours running around completing quests and exploring the vast and ever changing world. In the 10+ years that RuneScape has been around, you have been able to play the game right from your browser. No downloads. The game was programmed in Java, which back in 2001 when it was originally released, was awesome. But with the web technologies growing, Java isn’t a viable option anymore. It’s harder to run in a browser, and the performance isn’t getting better. Even today, RuneScape is still mostly written and ran in using Java. Today, that leaves companies like Jagex, the company that develops and supports RuneScape, in a bit of a pickle. &lt;/p&gt;
 
@@ -260,6 +310,586 @@
         <pubDate>Wed, 25 Feb 2015 00:00:00 -0500</pubDate>
         <link>http://Kaffys.github.io/design/smoketest/</link>
         <guid isPermaLink="true">http://Kaffys.github.io/design/smoketest/</guid>
+      </item>
+    
+      <item>
+        <title>Trademarks - Lit Review 5</title>
+        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
+&lt;p&gt;Software Freedom Law Center&lt;/p&gt;
+
+&lt;h1 id=&quot;what--where&quot;&gt;What / Where&lt;/h1&gt;
+&lt;p&gt;Legal Primer for FOSS: Chapter 5&lt;/p&gt;
+
+&lt;h1 id=&quot;gist&quot;&gt;Gist&lt;/h1&gt;
+&lt;p&gt;This chapter gave an  overview of how Trademark law works in the United States.&lt;/p&gt;
+
+&lt;h1 id=&quot;good&quot;&gt;Good&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Overview of Trademark Laws&lt;/li&gt;
+  &lt;li&gt;The difference between ™ and ® is explained, which is something I always struggled with.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;bad&quot;&gt;Bad&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Didn’t touch on Trademark Law outside of the US&lt;/li&gt;
+  &lt;li&gt;Spent time on local Trademark Law (instead of national)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;questions&quot;&gt;Questions&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Can two products used for different purposes share a trademark?&lt;/li&gt;
+  &lt;li&gt;Who revokes patents?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;p&gt;This was one of the better readings from the FOSS Primer. I definitely think that it should be a required reading for all students going into a computing major in college.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Feb 2015 00:00:00 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/litreview5/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview5/</guid>
+      </item>
+    
+      <item>
+        <title>Lit Review - Patents</title>
+        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
+&lt;p&gt;Google&lt;/p&gt;
+
+&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
+&lt;p&gt;Google Open Patent Non-Assertion&lt;/p&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;https://www.google.com/patents/opnpledge/pledge/&lt;/p&gt;
+
+&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
+&lt;p&gt;Today&lt;/p&gt;
+
+&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
+&lt;p&gt;Google believes that FOSS is important, so they are allowing users to use their patents assuming they follow the guidelines they posted.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Free or Open Source Software is a very important tool for fostering innovation&lt;/li&gt;
+  &lt;li&gt;Google and things they own won’t sue you&lt;/li&gt;
+  &lt;li&gt;It allows users to be innovative and use some of Google’s many resources  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;legalese is poopy garbage&lt;/li&gt;
+  &lt;li&gt;no profits, but that’s understandable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;What are some examples of people using this?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;p&gt;It was alright. &lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 19 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/litreview4/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview4/</guid>
+      </item>
+    
+      <item>
+        <title>TSM vs CLG - Who will have pink hair?</title>
+        <description>&lt;h1 id=&quot;tsm-vs-clg---the-rivalry&quot;&gt;TSM vs CLG - The Rivalry&lt;/h1&gt;
+&lt;p&gt;Team Solo Mid(TSM) and Counter Logic Gaming(CLG) are currently the top two teams Week 4 in the League Championship Series, or LCS. Over the past few years, their rosters have completely changed. But that doesn’t stop the die hard fans from tuning into their streams every Saturday and Sunday night. TSM has the mid lane star Soren “Bjergsen” Bjerg and CLG has the king of the jungle Marcel “Dexter” Feldkamp, both are big names in the League of Legends eSports community.&lt;/p&gt;
+
+&lt;h1 id=&quot;week-4&quot;&gt;Week 4&lt;/h1&gt;
+&lt;p&gt;This week TSM and CLG are playing each other in the final match of the weekend. Both teams are tied for first place, both with a 6-1 record. This game is the highlight of the weekend, Riot Games has brought on an additional caster as well as two former pro players to speak on the analyst desk after the game. But there is more riding on this game then just a first place title…&lt;/p&gt;
+
+&lt;p&gt;Two team members HotshotGG from CLG or Reginald from TSM have placed a bet. The loser of the bet will have to dye their hair pink for the remainder of the LCS split. One team will come out on first, one will have beautiful hair. Who will it be?&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/hfoss/TSMCLG/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/hfoss/TSMCLG/</guid>
+      </item>
+    
+      <item>
+        <title>Lit Review - Terms of Services</title>
+        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
+&lt;p&gt;Apple&lt;/p&gt;
+
+&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
+&lt;p&gt;Apple Terms of Service&lt;/p&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;https://www.apple.com/legal/internet-services/itunes/us/terms.html&lt;/p&gt;
+
+&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
+&lt;p&gt;Last updated: September 17, 2014&lt;/p&gt;
+
+&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
+&lt;p&gt;Apple’s terms of service for their customers. Talks a lot about purchases on the iTunes Store and purchasing apple products. These terms of services apply to a majority of the population, sometimes twice over.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Families man. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;iOS 8 and/or OS X Yosemite are required to start and join a Family.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Families man holy shit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;BY INVITING FAMILY MEMBERS TO JOIN A FAMILY, THE ORGANIZER AGREES THAT ALL FAMILY MEMBER PURCHASES ARE AUTHORIZED BY AND ARE THE RESPONSIBILITY OF THE ORGANIZER, EVEN IF THE ORGANIZER WAS UNAWARE OF ANY PARTICULAR PURCHASE, IF A FAMILY MEMBER EXCEEDED HIS OR HER AUTHORITY AS GRANTED BY THE ORGANIZER, OR IF MULTIPLE FAMILY MEMBERS PURCHASE THE SAME PRODUCT.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;iTunes will only use your personal information to help you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apple will, from time to time, automatically collect information   &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;(iv) You shall be authorized to burn an audio playlist up to seven times.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;But what if I’m in two families with 6 people each??!?!? &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apple shall not be responsible for any losses arising out of the unauthorized use of your Account.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;:(&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Families man. Why are they so complicated?&lt;/li&gt;
+  &lt;li&gt;These terms of services affect anyone who owns an iPhone, iPad or an Apple computer. How do these people know what a family is, how many people actually read these things?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;p&gt;It was alright. I learned some things about my cell phone and my laptop and my tablet.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/litreview2/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview2/</guid>
+      </item>
+    
+      <item>
+        <title>HFOSS - Quiz 1</title>
+        <description>&lt;h1 id=&quot;pillars&quot;&gt;Pillars&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Open Exchange&lt;/li&gt;
+  &lt;li&gt;Participation&lt;/li&gt;
+  &lt;li&gt;Rapid Prototyping&lt;/li&gt;
+  &lt;li&gt;Meritocracy&lt;/li&gt;
+  &lt;li&gt;Community&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;general-principals&quot;&gt;8 General Principals&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Make it interesting and make sure it happens&lt;/li&gt;
+  &lt;li&gt;Scratch an itch&lt;/li&gt;
+  &lt;li&gt;Minimize how many times you have to reinvent the wheel&lt;/li&gt;
+  &lt;li&gt;Solve problems through parallel work whenever possible&lt;/li&gt;
+  &lt;li&gt;Leverage the law of large numbers&lt;/li&gt;
+  &lt;li&gt;Document what you do&lt;/li&gt;
+  &lt;li&gt;Release early and often&lt;/li&gt;
+  &lt;li&gt;Talk a lot&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;similarities&quot;&gt;Similarities&lt;/h1&gt;
+&lt;p&gt;Same principles of making open source software open to whoever wants to contribute.&lt;/p&gt;
+
+&lt;h1 id=&quot;differences&quot;&gt;Differences&lt;/h1&gt;
+&lt;p&gt;General Principals are people, Pillars is a definition of open source.&lt;/p&gt;
+
+&lt;h1 id=&quot;whos-keen-analysis-did-weber-draw-heavily-upon&quot;&gt;Whos “keen analysis” did Weber “Draw Heavily” upon?”&lt;/h1&gt;
+&lt;p&gt;Eric Steven Raymond&lt;/p&gt;
+
+&lt;h1 id=&quot;what-was-the-title-of-this-keen-analysis&quot;&gt;What was the title of this “keen analysis?”&lt;/h1&gt;
+&lt;p&gt;The Cathedral and the Bazaar &lt;/p&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;http://www.catb.org/esr/writings/cathedral-bazaar/&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/hfoss/quiz/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/hfoss/quiz/</guid>
+      </item>
+    
+      <item>
+        <title>Lit Review - GNU GPL</title>
+        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
+&lt;p&gt;Software Freedom Law Center, Free Software Foundation, Bradley M Kuhn.&lt;/p&gt;
+
+&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
+&lt;p&gt;Copyleft the the GNU General Public License - A Comprehensive Tutorial and Guide. Chapter 1&lt;/p&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf&lt;/p&gt;
+
+&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
+&lt;p&gt;2014&lt;/p&gt;
+
+&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
+&lt;p&gt;The book talks about copyright laws when it comes to Free and Open Source Software. There are a ton of different licenses and the book helps the reader understand the differences between each one.  &lt;/p&gt;
+
+&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;I wrote in a blog post earlier, that I didn’t quite understand the difference between copyleft and copyright, and this chapter clarified a lot of it.&lt;/li&gt;
+  &lt;li&gt;This chapter addresses a lot of misconceptions about the GPL.&lt;/li&gt;
+  &lt;li&gt;Four Freedoms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;I don’t know why I would want to use the GPL and why not.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;“Anti Hacker” movements, and why this would hurt Software Freedom movements?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;p&gt;As someone who hasn’t had any exposure to the GNU GPL, I learned a lot. I learned a lot about copyleft. I would recommend this text to anyone who has not been exposed to these concepts. &lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/litreview2/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview2/</guid>
+      </item>
+    
+      <item>
+        <title>Left Shark - Can he be copyrighted?</title>
+        <description>&lt;h1 id=&quot;superb-owl&quot;&gt;Superb Owl&lt;/h1&gt;
+&lt;p&gt;This year’s Super Bowl was another huge another extravaganza. With advertisements selling for millions of dollars apiece, over 100 million viewers tuning in and (American) football players with millions of dollars worth of contracts and prizes on the line, it’s anything but a minor production. There were many stars of this game, Richard Sherman of the Seattle Seahawks, MVP Tom Brady of the New England Patriots and even the stunning half time performance by pop-singer Katy Perry. But the true star of the game was someone in a giant shark costume. He has been dubbed by his adoring fans as “The Left Shark”, pictured below. The Patriots may have won this years Super Bowl, but the Left Shark will be the real champion.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://kaffys.github.io/leftshark.gif&quot; alt=&quot;Left Shark&quot; title=&quot;I&#39;ve always liked Leftie anyway&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are IndieGoGos selling Left Shark costume, valentines day cards to give to your lovers, and of course Left Shark stickers. One of Left Shark’s fans &lt;a href=&quot;http://www.shapeways.com/shops/amznfx&quot;&gt;Fernando Sosa&lt;/a&gt; created a beautiful 3D model, and posted is on the website Shapeways, a website where you can buy 3D printed models, so that every fan can have their very own shark. But recently, Shapeways has received a cease and desist letter from Katy Perry’s legal team. Which you can download and read &lt;a href=&quot;http://kaffys.github.io/leftshark.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;can-they-do-this&quot;&gt;Can they do this?&lt;/h1&gt;
+&lt;p&gt;So Katy Perry and her team are claiming copyright on the shark costume. Is that within their rights? In addition to that, does Katy Perry even legally own that copyright?&lt;/p&gt;
+
+&lt;p&gt;There was a court case in 1987 called Brandir International, Inc vs Cascade Pacific Lumber Co. Brandir designed an award winning metal bike rack, Cascade began to copy the bike rack, and Brandir sued for copyright infringement. Cascade used the argument that because they were not works of art, they are useful articles and could not be copyrighted. The court ruled that:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“If design elements reflect a merger of aesthetic and functional considerations, the artist aspects of a work cannot be said to be conceptually separable from the utilitarian elements. Conversely, where design elements can be identified as reflecting the designer’s artistic judgment exercised independently of functional influences, conceptual separability exists.” &lt;a href=&quot;http://openjurist.org/834/f2d/1142/brandir-international-inc-v-cascade-pacific-lumber-co-l&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So let’s break this legalese down. The court has to look at the the work and decide if the work was made for design reasons, or aesthetic reasons. Let’s use a plate as an example. There are only so many ways you can make a flat plate. But, you can change the designs on the plate, and those designs can be copyrighted. The world utilitarian means that it was designed to be practical rather that pretty.&lt;/p&gt;
+
+&lt;h1 id=&quot;eli5&quot;&gt;ELI5&lt;/h1&gt;
+&lt;p&gt;Left Shark is probably not be copyrightable because it qualifies as a “useful article”. Examples of useful articles are furniture, machines, dinnerware, and most importantly clothing! And since it is a useful article, it cannot be copyrighted. There are so many ways you can make a shark costume. (Like, I don’t know, a 3D model?)&lt;/p&gt;
+
+&lt;h1 id=&quot;so-who-owns-it&quot;&gt;So…. who owns it?&lt;/h1&gt;
+&lt;p&gt;I do not think Katy Perry has any legal claim to the “Left Shark” fad that is going on right now. In addition to these facts, Katy Perry said that because of her contract with the NHL, the NHL had more control over her halftime show than she did. &lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/leftshark/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/leftshark/</guid>
+      </item>
+    
+      <item>
+        <title>Lit Review - Open Source</title>
+        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
+&lt;p&gt;Steve Weber&lt;/p&gt;
+
+&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
+&lt;p&gt;What is Open Source and How Does it Work?&lt;/p&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;http://hfoss-ritigm.rhcloud.com/static/books/Weber-SuccessofOpenSource-Chap3.pdf&lt;/p&gt;
+
+&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
+&lt;p&gt;2004&lt;/p&gt;
+
+&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
+&lt;p&gt;Talked about how and what Open Source software is. &lt;/p&gt;
+
+&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
+&lt;p&gt;-“large-scale software engineering to a prehistoric tar pit.” made me giggle on the inside when I think about programmers fighting each other.
+-Tying in some of the things I learned about GPL in biz&amp;amp;legal into HFOSS.
+-8 general principals that capture what people do in Open Source. &lt;/p&gt;
+
+&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
+&lt;p&gt;-Too long, lost my interest. 
+-Went super in depth on the the nitty gritty when those pages could be used to talk more about the point of the article, What is Open Source?
+-Very dense. Would not float in water.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
+&lt;p&gt;-What are some other early open source projects?
+-What are these people/companies doing in todays world?&lt;/p&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;p&gt;It was a very long text. As someone who was already interested in Open Source software, I found a lot of the text a little obvious, and way to detailed. I would not recommended this text to someone who was just getting into Open Source software.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 09 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/hfoss/litreview1/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/hfoss/litreview1/</guid>
+      </item>
+    
+      <item>
+        <title>Left Shark</title>
+        <description>&lt;h1 id=&quot;splattershmup-coding-stylestandards-sheet&quot;&gt;Splattershmup Coding Style/Standards Sheet&lt;/h1&gt;
+
+&lt;h2 id=&quot;c-sharp&quot;&gt;C-Sharp&lt;/h2&gt;
+&lt;p&gt;### Spacing&lt;/p&gt;
+
+&lt;h5 id=&quot;spaces&quot;&gt;Spaces&lt;/h5&gt;
+&lt;p&gt;Use four spaces for indenting. Do not use a hardware tab to indent.&lt;/p&gt;
+
+&lt;h5 id=&quot;braces&quot;&gt;Braces&lt;/h5&gt;
+&lt;p&gt;Put braces on the next line, everywhere (if, else, functions, structures, class definitions, etc.)&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+if(condition)
+{
+	// Code
+}
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The else statement starts on the next line after the last closing brace.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+if(condition)
+{
+	// Code
+}
+else
+{
+	// More Code
+}
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;floating-point-precision&quot;&gt;Floating Point Precision&lt;/h3&gt;
+&lt;p&gt;Use precision specification for floating point values unless there is an explicit need for a double.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+float f = 0.5f;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Instead of&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+float f = 0.5;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;And&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+float f = 1.0f;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Instead of&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+float f = 1.f;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;naming-conventions&quot;&gt;Naming Conventions&lt;/h3&gt;
+&lt;p&gt;##### Methods
+Method names should be &lt;a href=&quot;http://c2.com/cgi/wiki?UpperCamelCase&quot;&gt;pascal cased&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+void Foo();
+void FooAndBar();
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;variables&quot;&gt;Variables&lt;/h5&gt;
+&lt;p&gt;Variable names should be &lt;a href=&quot;http://c2.com/cgi/wiki?LowerCamelCase&quot;&gt;camel cased&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+int health;
+int hitCounter;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Private Variables should start with an underscore:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+int _myPrivateInt;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Variables that are intended to have a constant value (although are changed in the Unity Editor) should be in all caps with underscores between words.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+int MAX_PARTICLES = 100;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Variables that are public and will be edited in the editor will have their initial values specified on their declaration line rather than in the constructor.
+##### Structs and Classes
+Struct and class names should be &lt;a href=&quot;http://c2.com/cgi/wiki?UpperCamelCase&quot;&gt;pascal cased&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+struct ExplosionData;
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;enums&quot;&gt;Enums&lt;/h5&gt;
+&lt;p&gt;Enum names use the same naming convention as Classes. The enum constants should be all caps with underscores between words.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+enum Contact
+{
+	NONE,
+	EDGE,
+	MODEL_VERTEX,
+	TRM_VERTEX
+};
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;commenting&quot;&gt;Commenting&lt;/h3&gt;
+&lt;p&gt;Everything should use Microsoft’s C# XML Comments. If you are unsure of how to do this please read &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/aa288481(v=vs.71).aspx&quot;&gt;this guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;line-length&quot;&gt;Line Length&lt;/h3&gt;
+&lt;p&gt;Avoid having lines with a length greater than 80 characters. The hard limit for line length is 120 characters, at this point you should split the function call  or whatever you’re doing among different lines with appropriate indenting on the next line down.&lt;/p&gt;
+
+&lt;p&gt;This page was heavily inspired by the &lt;a href=&quot;https://github.com/Circular-Studios/Dash/wiki/Coding-Standards&quot;&gt;Dash Coding Standards Sheet&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/standardsguide/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/standardsguide/</guid>
+      </item>
+    
+      <item>
+        <title>Lit Review - FOSS Primer</title>
+        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
+&lt;p&gt;Software Freedom Law Center&lt;/p&gt;
+
+&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
+&lt;p&gt;A Legal Issues Primer for
+Open Source and Free Software Projects&lt;/p&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf&lt;/p&gt;
+
+&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
+&lt;p&gt;June 4th 2008&lt;/p&gt;
+
+&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
+&lt;p&gt;The book talks about copyright laws when it comes to Free and Open Source Software. There are a ton of different licenses and the book helps the reader understand the differences between each one.  &lt;/p&gt;
+
+&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
+&lt;p&gt;-Explains common licesnes, and what situations I would want to use them, in an easy to understand fashion, especailly for someone who is new to this (me).
+-Little bias
+-Copyleft. I’ve heard the phrase before, but never really understood it. &lt;/p&gt;
+
+&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;I wish we read a more up to date version. The world of software has changed so much over the past 6 years. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;What legal actions could be taken against someone if they break licenses? &lt;/li&gt;
+  &lt;li&gt;When does code become “mine”? When I save it, publish it, or write it?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;p&gt;This book helped me, as a student being introduced to the FOSS world, understand the differences between licenes. It was an intimidating text at first, especially coming from a legal firm. But if you take your time and truly commit to understanding the text, you will leave enlightened. &lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/litreview1/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview1/</guid>
+      </item>
+    
+      <item>
+        <title>Video Review - Everything Is A Remix</title>
+        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
+&lt;p&gt;Kirby Ferguson&lt;/p&gt;
+
+&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
+&lt;p&gt;Everything Is A Remix&lt;/p&gt;
+
+&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=coGpmA4saEk&lt;/p&gt;
+
+&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
+&lt;p&gt;posted to YouTube on June 25th 2012 &lt;/p&gt;
+
+&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
+&lt;p&gt;Media today is pulled and twisted from the media of the past. No one is original, we need to do research and consume and borrow elements from others to create “original” media. &lt;/p&gt;
+
+&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Seeing where the scenes in Star Wars came from&lt;/li&gt;
+  &lt;li&gt;Copy, transform and combine. 3 Elements of creativity. &lt;/li&gt;
+  &lt;li&gt;How Apple made their products more user friendly. even though they didnt “invent” the home computer. They’re still doing that today.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;It is hard to understand his stance on remixing. I&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;I wish they talked about books and television and books “remixing” off each other. &lt;/li&gt;
+  &lt;li&gt;Is everything really a remix? Are there any exceptions to this?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+&lt;p&gt;This was a good film to watch. As someone with both a music compisition as well as a comptuer programming background, I was able to relate to a lot of the topics that Ferguson brought up. A typical way to prepare for improvisiation in jazz is to listen other musicians play similar pieces, so it’s almost &lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/vidreview/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/vidreview/</guid>
+      </item>
+    
+      <item>
+        <title>First Flight</title>
+        <description>&lt;p&gt;This is my first blog post on my new website. I will be using this page for two classes I am taking this semester, Humanitarian FOSS Development and Business &amp;amp; Legal Aspects of Free/Open Source Software. This is my first time taking a class like this, and I’m really excited to explore the world of Open Source Software. &lt;/p&gt;
+
+&lt;p&gt;To start off my open source adventure, I wanted to try something new and create a website with open source software. I heard of Jekyll from a friend, so I wanted to try and set it up. I’ve never used a command line tool before and I’m have some experience using Github. I installed &lt;a href=&quot;http://iterm.sourceforge.net/&quot;&gt;iTerm&lt;/a&gt; to use at my command line client, and I installed &lt;a href=&quot;http://brew.sh/&quot;&gt;Homebew&lt;/a&gt; which made it really easy to install Ruby and all of the Ruby Gems I needed. &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;gem install jekyll&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Boom. Look I’m a pro. It’s really easy for me to run a local instance of Jekyll, just by going to the directory that my project is in and typing a quick command. &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;jekyll serve&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Now, whenever I want to create a new blog post, I just create a new markdown file with the date and the title as the file name and drag and drop it into the _posts folder. I can write all of my posts in markdown, which would also makes my life pretty easy.&lt;/p&gt;
+
+&lt;p&gt;On Github, I’m using my github.io page to host my webpage, so I just push my website to that repo and it automagically updates it for me. Bam. Beautiful, simple blog page. &lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/hfoss/firstflight/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/hfoss/firstflight/</guid>
+      </item>
+    
+      <item>
+        <title>First Flight</title>
+        <description>&lt;p&gt;This is my first blog post on my new website. I will be using this page for two classes I am taking this semester, Humanitarian FOSS Development and Business &amp;amp; Legal Aspects of Free/Open Source Software. This is my first time taking a class like this, and I’m really excited to explore the world of Open Source Software. &lt;/p&gt;
+
+&lt;p&gt;To start off my open source adventure, I wanted to try something new and create a website with open source software. I heard of Jekyll from a friend, so I wanted to try and set it up. I’ve never used a command line tool before and I’m have some experience using Github. I installed &lt;a href=&quot;http://iterm.sourceforge.net/&quot;&gt;iTerm&lt;/a&gt; to use at my command line client, and I installed &lt;a href=&quot;http://brew.sh/&quot;&gt;Homebew&lt;/a&gt; which made it really easy to install Ruby and all of the Ruby Gems I needed. &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;gem install jekyll&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Boom. Look I’m a pro. It’s really easy for me to run a local instance of Jekyll, just by going to the directory that my project is in and typing a quick command. &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;jekyll serve&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Now, whenever I want to create a new blog post, I just create a new markdown file with the date and the title as the file name and drag and drop it into the _posts folder. I can write all of my posts in markdown, which would also makes my life pretty easy.&lt;/p&gt;
+
+&lt;p&gt;On Github, I’m using my github.io page to host my webpage, so I just push my website to that repo and it automagically updates it for me. Bam. Beautiful, simple blog page. &lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 03 Feb 2015 09:46:39 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/first-flight/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/first-flight/</guid>
       </item>
     
   </channel>
