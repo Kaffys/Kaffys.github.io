@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
-title: "Google Chrome - Stopping support for NPAPI plugins"
-teaser: "What does this mean for games like RuneScape?"
+title: "Business and Legal - Team Prop - KickStarter"
+teaser: ""
 header:
-    image_fullwidth: "chrome.png"
+    image_fullwidth: "''
 image:
-    homepage: chrome.png
+    homepage: 
 categories:
     - design
 comments: true
