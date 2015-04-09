@@ -7,6 +7,176 @@
     <atom:link href="http://Kaffys.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Google Chrome - Stopping support for NPAPI plugins</title>
+        <description>&lt;p&gt;One of my favorite games growing up was RuneScape. I would spend hours running around completing quests and exploring the vast and ever changing world. In the 10+ years that RuneScape has been around, you have been able to play the game right from your browser. No downloads. The game was programmed in Java, which back in 2001 when it was originally released, was awesome. But with the web technologies growing, Java isn’t a viable option anymore. It’s harder to run in a browser, and the performance isn’t getting better. Even today, RuneScape is still mostly written and ran in using Java. Today, that leaves companies like Jagex, the company that develops and supports RuneScape, in a bit of a pickle. &lt;/p&gt;
+
+&lt;p&gt;Slowly, browsers are starting to phase out Java support by default, starting with Google Chrome. In September 2013, &lt;a href=&quot;http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html&quot;&gt;Chrome announced&lt;/a&gt; that it will be dropping support for the Netscape Plugin Application Programming Interface, or “NPAPI”. NPAPI works by a plugin saying “Hey I handle this type of data!”. NPAPI then streams that data to the plugin, and then the plugin is responsible for processing and rendering the data for the user. &lt;/p&gt;
+
+&lt;p&gt;Chrome version 42 is &lt;a href=&quot;https://www.chromium.org/developers/npapi-deprecation&quot;&gt;launching in April 2015&lt;/a&gt;, and with that NPAPI support will be discontinued and any NPAPI plugins will be unpublished. Some of the plugins that will be affected are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;SilverLight&lt;/li&gt;
+  &lt;li&gt;Unity&lt;/li&gt;
+  &lt;li&gt;Google Earth&lt;/li&gt;
+  &lt;li&gt;Java&lt;/li&gt;
+  &lt;li&gt;Google talk&lt;/li&gt;
+  &lt;li&gt;Facebook Video&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So games like RuneScape will no longer be supported in Chrome. Which I think is kind of funny, considering &lt;a href=&quot;http://services.runescape.com/m=news/exclusive-goggles-only-in-chrome&quot;&gt;Jagex teamed up with Google &lt;/a&gt; in December 2011 to make sure the game would run on their browser. #oops&lt;/p&gt;
+
+&lt;p&gt;Jagex is exploring other platforms for their game engine. In 2013, Jagex released an HTML5 Beta, which has made significant progress with performance, but not so much graphically. And even then, it is still limited. Right now, &lt;a href=&quot;http://services.runescape.com/m=forum/forums.ws?198,199,113,65596566&quot;&gt;Jagex is developing an engine in C++&lt;/a&gt;, so that they can target multiple platforms and have a better performance for their users. &lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 30 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://Kaffys.github.io/design/RuneScape/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/design/RuneScape/</guid>
+      </item>
+    
+      <item>
+        <title>Humans vs Zombies - 20 days away!</title>
+        <description>&lt;p&gt;I’m the President of RIT’s Humans vs Zombies club. We are the second biggest HvZ club in the world, with our biggest game in Fall 2014 with almost 900 players. It’s difficult to balance such a large extracurricular with all of my class work, but it’s worth it.&lt;/p&gt;
+
+&lt;p&gt;We’re currently finishing development on iPhone and Android apps so that players can track the game while on their cell phones. Our website is open source and will be available on Github when our game finishes.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 30 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://Kaffys.github.io/design/HvZ1/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/design/HvZ1/</guid>
+      </item>
+    
+      <item>
+        <title>Programming Interviews! - Week 1 - Possible Solutions</title>
+        <description>&lt;p&gt;I wrote the following answers below. I was allowed to pick whatever programming language I wanted, and I picked Javascript. These may not be completely accurate, and I would love any feedback! &lt;/p&gt;
+
+&lt;p&gt;1) What is the current day number given the function below:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;dayNumber&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;month&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;day&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+
+    &lt;span class=&quot;c1&quot;&gt;//I populated the last few months with junk data for testing/lazy purposes.&lt;/span&gt;
+    &lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;monthArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;28&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+
+    &lt;span class=&quot;c1&quot;&gt;//This is to check if we have good data. We dont want someone submitting 2/30/15.&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;13&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt;  &lt;span class=&quot;nx&quot;&gt;month&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;d&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;month&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;m&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]){&lt;/span&gt;
+       
+        &lt;span class=&quot;c1&quot;&gt;//this account for leap year by changing the 2nd data in the month array&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;year&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;nx&quot;&gt;monthArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;29&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+            
+            
+        &lt;span class=&quot;c1&quot;&gt;//adds the number of days in the month at each space in data to a temp variable&lt;/span&gt;
+        &lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;tempMonth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;  
+        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;month&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;nx&quot;&gt;tempMonth&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;monthArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+        
+        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+        
+
+        &lt;span class=&quot;c1&quot;&gt;//adds the days to the temp month &lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;days&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;tempMonth&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;day&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        
+        &lt;span class=&quot;c1&quot;&gt;//if its January, subtract the days. &lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;month&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;nx&quot;&gt;days&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;monthArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+         
+        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;days&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Looking back on this one, it might have been easier to just break out if int month = 0;&lt;/p&gt;
+
+&lt;p&gt;2) Calculate the angle between the two handles of the clock. The angle must less than  180 degrees. &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;angleBetween&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;hour&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;minute&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;hourDegrees&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+   	&lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;minuteDegrees&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+   	&lt;span class=&quot;c1&quot;&gt;//The hour hand moves 30 degrees every hour, and .5 degrees every minute that passes.&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;hourDegrees&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hour&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;minute&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+    &lt;span class=&quot;c1&quot;&gt;//The minute hand moves 6 degrees for every  minute that passes by&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;minuteDegrees&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;minute&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    
+    &lt;span class=&quot;c1&quot;&gt;//The two calculations make what each individual angle would be, but we want the angle between the two, so we subtract them.&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;//The result might be negative if the time is something like 6:04.&lt;/span&gt;
+    &lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;angle&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Math&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;abs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;mintuteDegrees&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;hourDegrees&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    
+
+    &lt;span class=&quot;c1&quot;&gt;//This rejects any answer bigger than 180, and makes it into a number we would like. &lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;angle&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;180&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;angle&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;360&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;angle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    
+
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;angle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sat, 28 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://Kaffys.github.io/design/programming2/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/design/programming2/</guid>
+      </item>
+    
+      <item>
+        <title>Programming Interviews! - Week 1</title>
+        <description>&lt;p&gt;I’m a TA for Data Structures and Algorithms 1 &amp;amp; 2. DSA1 is composed of Sophomores, and  DSA2 is composed of Juniors and Seniors. These are the classes where students in the Game Design and Development program here at RIT learn C++ for the first time, and then build on those skills in section 2. The students really like this, because part of their graduation requirements is to do 2 co-ops, or internships, within the industry before they graduate. &lt;/p&gt;
+
+&lt;p&gt;The Friday before break, I asked DSA1 these two questions:&lt;/p&gt;
+
+&lt;p&gt;1) What is the current day number given the function below:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;dayNumber&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;month&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;day&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;2) Calculate the angle between the two handles of the clock. The angle must less than  180 degrees. &lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;angleBetween&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;hour&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kr&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;minute&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+</description>
+        <pubDate>Fri, 27 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://Kaffys.github.io/design/programming1/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/design/programming1/</guid>
+      </item>
+    
+      <item>
+        <title>You Are Always Wearing your Letters.</title>
+        <description>&lt;p&gt;A few weeks ago, a video with members of the Sigma Alpha Epsilon (SAE) fraternity chanting “there will never be a n*r SAE” went viral. The chapter was located the University of Oklahoma, and was immediately disbanded and removed from the campus and the students in the video were expelled. Those students forgot they were wearing their letters. Once you join an organization, whether you have your letters on or not, you are always representing them. This is true for almost every organization in the world. &lt;/p&gt;
+
+&lt;p&gt;When you join a Greek organization, you join a lineage of people. Every good thing you do as a part of your organization helps being it up. Every inappropriate thing tears your organization down, and may take others with you. But the good thing about this is that you have a huge support network within your organization to help push you to be a better version of yourself. &lt;/p&gt;
+
+&lt;p&gt;I joined a Greek organization in Fall of 2014 because I wanted to help give back to my community, and find a leadership environment that could help further my growth. I found that and so much more. I found lifetime friends, I met some of the most hardworking women that  inspired me in many different ways.  &lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://Kaffys.github.io/design/letters/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/design/letters/</guid>
+      </item>
+    
+      <item>
+        <title>Tap Titans - Cool Micro-transactions Bro</title>
+        <description>&lt;p&gt;Over my Spring break, I had the pleasure of having my tonsils removed. I downloaded a bunch of games on my iPhone so I could sit in my hospital bed and entertain myself between naps. One of the games I played was Tap Titans. It’s  much like the popular browser game, Cookie Clicker, and just as addicting.&lt;/p&gt;
+
+&lt;p&gt;Every time you tap the screen, you deal damage to the monster in front of you. Every 10 monsters theres a boss battle. You start the game off doing one damage per tap, but you can level up your DPS by purchasing upgrades. You can also purchase little heros that will do damage to the monsters while you are away. As of right now, I’m on Stage 79 doing 263 TRILLION points of damage every time I tap the monster. &lt;/p&gt;
+
+&lt;p&gt;What I really like about the game is how they handle their micro-transaction currency. In most games theres a currency you can get in game by playing the game (in this game its coins), and one you can get by spending real life money on (diamonds). It’s a pretty common practice, and it’s littered in almost any phone application you buy. What makes Tap Titans different is that you can also obtain Diamonds in game.&lt;/p&gt;
+
+&lt;p&gt;Every achievement you obtain, you get a certain amount of diamonds relative to how difficult the achievement is. Kill 1 thousand monsters? 15 Diamonds! Reach stage 50? 10 Diamonds! In addition to this, power-ups will randomly drop from the sky. Sometimes they will just give you things like a few Diamonds, 1 billion gold, bonus hero attack speed for x seconds. But, sometimes they will give you increased power-ups if you sit through a 5 second advertisement so you can watch a short ad and get 2 billion gold, of 10 diamonds. These are totally optional! They give you the option to decline the power-up and the advertisement, and keep playing the game, which I thought was pretty cool.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://Kaffys.github.io/design/taptitans/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/design/taptitans/</guid>
+      </item>
+    
+      <item>
         <title>Women in Gaming - GDC 2015</title>
         <description>&lt;p&gt;This year at GDC, many companies tried to open it’s doors for women in gaming. I won along with 19 other women an All-Access pass and an invite to the Women in Gaming Luncheon as well as the night event. Another friend of mine won a similar contest, and another twenty women were able to attend GDC. &lt;/p&gt;
 
@@ -19,7 +189,7 @@
 &lt;p&gt;Something that I struggled with is peers saying that I’m only getting interviews because I’m a girl, which is certainly not true. I worked hard and studied hard, and I’m happy to prove it to my peers. &lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 15 Nov 2015 00:00:00 -0500</pubDate>
+        <pubDate>Thu, 05 Mar 2015 00:00:00 -0500</pubDate>
         <link>http://Kaffys.github.io/design/WiGmd/</link>
         <guid isPermaLink="true">http://Kaffys.github.io/design/WiGmd/</guid>
       </item>
@@ -43,316 +213,53 @@
 &lt;p&gt;The last demo was Portal environment when you were did repairs on a the malfunctioning robot from Portal 2. You got to pick up tools, rotate things, walk around the parts shop, and of course laden with the dark Portal 2 humor you would expect. &lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 15 Nov 2015 00:00:00 -0500</pubDate>
+        <pubDate>Tue, 03 Mar 2015 00:00:00 -0500</pubDate>
         <link>http://Kaffys.github.io/design/ValveVR/</link>
         <guid isPermaLink="true">http://Kaffys.github.io/design/ValveVR/</guid>
       </item>
     
       <item>
-        <title>Tap Titans - Cool Micro-transactions Bro</title>
-        <description>&lt;p&gt;Over my Spring break, I had the pleasure of having my tonsils removed. I downloaded a bunch of games on my iPhone so I could sit in my hospital bed and entertain myself between naps. One of the games I played was Tap Titans. It’s  much like the popular browser game, Cookie Clicker, and just as addicting.&lt;/p&gt;
-
-&lt;p&gt;Every time you tap the screen, you deal damage to the monster in front of you. Every 10 monsters theres a boss battle. You start the game off doing one damage per tap, but you can level up your DPS by purchasing upgrades. You can also purchase little heros that will do damage to the monsters while you are away. As of right now, I’m on Stage 79 doing 263 TRILLION points of damage every time I tap the monster. &lt;/p&gt;
-
-&lt;p&gt;What I really like about the game is how they handle their micro-transaction currency. In most games theres a currency you can get in game by playing the game (in this game its coins), and one you can get by spending real life money on (diamonds). It’s a pretty common practice, and it’s littered in almost any phone application you buy. What makes Tap Titans different is that you can also obtain Diamonds in game.&lt;/p&gt;
-
-&lt;p&gt;Every achievement you obtain, you get a certain amount of diamonds relative to how difficult the achievement is. Kill 1 thousand monsters? 15 Diamonds! Reach stage 50? 10 Diamonds! In addition to this, power-ups will randomly drop from the sky. Sometimes they will just give you things like a few Diamonds, 1 billion gold, bonus hero attack speed for x seconds. But, sometimes they will give you increased power-ups if you sit through a 5 second advertisement so you can watch a short ad and get 2 billion gold, of 10 diamonds. These are totally optional! They give you the option to decline the power-up and the advertisement, and keep playing the game, which I thought was pretty cool.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 Mar 2015 00:00:00 -0400</pubDate>
-        <link>http://Kaffys.github.io/design/taptitans/</link>
-        <guid isPermaLink="true">http://Kaffys.github.io/design/taptitans/</guid>
-      </item>
-    
-      <item>
-        <title>Lit Review - Patents</title>
+        <title>Trademarks - Lit Review 6</title>
         <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
-&lt;p&gt;Google&lt;/p&gt;
+&lt;p&gt;Software Freedom Law Center&lt;/p&gt;
 
-&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
-&lt;p&gt;Google Open Patent Non-Assertion&lt;/p&gt;
+&lt;h1 id=&quot;what--where&quot;&gt;What / Where&lt;/h1&gt;
+&lt;p&gt;Legal Primer for FOSS: Chapter 3&lt;/p&gt;
 
-&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
-&lt;p&gt;https://www.google.com/patents/opnpledge/pledge/&lt;/p&gt;
+&lt;h1 id=&quot;gist&quot;&gt;Gist&lt;/h1&gt;
+&lt;p&gt;How projects organize themselves. &lt;/p&gt;
 
-&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
-&lt;p&gt;Today&lt;/p&gt;
-
-&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
-&lt;p&gt;Google believes that FOSS is important, so they are allowing users to use their patents assuming they follow the guidelines they posted.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
+&lt;h1 id=&quot;good&quot;&gt;Good&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;Free or Open Source Software is a very important tool for fostering innovation&lt;/li&gt;
-  &lt;li&gt;Google and things they own won’t sue you&lt;/li&gt;
-  &lt;li&gt;It allows users to be innovative and use some of Google’s many resources  &lt;/li&gt;
+  &lt;li&gt;501c3 FOSS projects are tax exempt - that’s kinda cool&lt;/li&gt;
+  &lt;li&gt;Explains the difference between corporations and nonprofit corporations&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
+&lt;h1 id=&quot;bad&quot;&gt;Bad&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;legalese is poopy garbage&lt;/li&gt;
-  &lt;li&gt;no profits, but that’s understandable&lt;/li&gt;
+  &lt;li&gt;NYS only&lt;/li&gt;
+  &lt;li&gt;IRC not an acceptable meeting?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
+&lt;h1 id=&quot;questions&quot;&gt;Questions&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;What are some examples of people using this?&lt;/li&gt;
+  &lt;li&gt;Liability? &lt;/li&gt;
+  &lt;li&gt;getting involved?&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
-&lt;p&gt;It was alright. &lt;/p&gt;
-
 </description>
-        <pubDate>Thu, 19 Feb 2015 09:46:39 -0500</pubDate>
-        <link>http://Kaffys.github.io/bizleg/litreview4/</link>
-        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview4/</guid>
+        <pubDate>Mon, 02 Mar 2015 00:00:00 -0500</pubDate>
+        <link>http://Kaffys.github.io/bizleg/litreview6/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview6/</guid>
       </item>
     
       <item>
-        <title>TSM vs CLG - Who will have pink hair?</title>
-        <description>&lt;h1 id=&quot;tsm-vs-clg---the-rivalry&quot;&gt;TSM vs CLG - The Rivalry&lt;/h1&gt;
-&lt;p&gt;Team Solo Mid(TSM) and Counter Logic Gaming(CLG) are currently the top two teams Week 4 in the League Championship Series, or LCS. Over the past few years, their rosters have completely changed. But that doesn’t stop the die hard fans from tuning into their streams every Saturday and Sunday night. TSM has the mid lane star Soren “Bjergsen” Bjerg and CLG has the king of the jungle Marcel “Dexter” Feldkamp, both are big names in the League of Legends eSports community.&lt;/p&gt;
-
-&lt;h1 id=&quot;week-4&quot;&gt;Week 4&lt;/h1&gt;
-&lt;p&gt;This week TSM and CLG are playing each other in the final match of the weekend. Both teams are tied for first place, both with a 6-1 record. This game is the highlight of the weekend, Riot Games has brought on an additional caster as well as two former pro players to speak on the analyst desk after the game. But there is more riding on this game then just a first place title…&lt;/p&gt;
-
-&lt;p&gt;Two team members HotshotGG from CLG or Reginald from TSM have placed a bet. The loser of the bet will have to dye their hair pink for the remainder of the LCS split. One team will come out on first, one will have beautiful hair. Who will it be?&lt;/p&gt;
+        <title>Smoketest</title>
+        <description>&lt;p&gt;My smoke test went fine, aside from it being wonky with RIT wifi. It worked fine at home with my wifi.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 15 Feb 2015 09:46:39 -0500</pubDate>
-        <link>http://Kaffys.github.io/hfoss/TSMCLG/</link>
-        <guid isPermaLink="true">http://Kaffys.github.io/hfoss/TSMCLG/</guid>
-      </item>
-    
-      <item>
-        <title>Lit Review - Terms of Services</title>
-        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
-&lt;p&gt;Apple&lt;/p&gt;
-
-&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
-&lt;p&gt;Apple Terms of Service&lt;/p&gt;
-
-&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
-&lt;p&gt;https://www.apple.com/legal/internet-services/itunes/us/terms.html&lt;/p&gt;
-
-&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
-&lt;p&gt;Last updated: September 17, 2014&lt;/p&gt;
-
-&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
-&lt;p&gt;Apple’s terms of service for their customers. Talks a lot about purchases on the iTunes Store and purchasing apple products. These terms of services apply to a majority of the population, sometimes twice over.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;Families man. &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;iOS 8 and/or OS X Yosemite are required to start and join a Family.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Families man holy shit&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;BY INVITING FAMILY MEMBERS TO JOIN A FAMILY, THE ORGANIZER AGREES THAT ALL FAMILY MEMBER PURCHASES ARE AUTHORIZED BY AND ARE THE RESPONSIBILITY OF THE ORGANIZER, EVEN IF THE ORGANIZER WAS UNAWARE OF ANY PARTICULAR PURCHASE, IF A FAMILY MEMBER EXCEEDED HIS OR HER AUTHORITY AS GRANTED BY THE ORGANIZER, OR IF MULTIPLE FAMILY MEMBERS PURCHASE THE SAME PRODUCT.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;iTunes will only use your personal information to help you.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Apple will, from time to time, automatically collect information   &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;(iv) You shall be authorized to burn an audio playlist up to seven times.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;But what if I’m in two families with 6 people each??!?!? &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Apple shall not be responsible for any losses arising out of the unauthorized use of your Account.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;:(&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;Families man. Why are they so complicated?&lt;/li&gt;
-  &lt;li&gt;These terms of services affect anyone who owns an iPhone, iPad or an Apple computer. How do these people know what a family is, how many people actually read these things?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
-&lt;p&gt;It was alright. I learned some things about my cell phone and my laptop and my tablet.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 12 Feb 2015 09:46:39 -0500</pubDate>
-        <link>http://Kaffys.github.io/bizleg/litreview2/</link>
-        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview2/</guid>
-      </item>
-    
-      <item>
-        <title>HFOSS - Quiz 1</title>
-        <description>&lt;h1 id=&quot;pillars&quot;&gt;Pillars&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;Open Exchange&lt;/li&gt;
-  &lt;li&gt;Participation&lt;/li&gt;
-  &lt;li&gt;Rapid Prototyping&lt;/li&gt;
-  &lt;li&gt;Meritocracy&lt;/li&gt;
-  &lt;li&gt;Community&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;general-principals&quot;&gt;8 General Principals&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;Make it interesting and make sure it happens&lt;/li&gt;
-  &lt;li&gt;Scratch an itch&lt;/li&gt;
-  &lt;li&gt;Minimize how many times you have to reinvent the wheel&lt;/li&gt;
-  &lt;li&gt;Solve problems through parallel work whenever possible&lt;/li&gt;
-  &lt;li&gt;Leverage the law of large numbers&lt;/li&gt;
-  &lt;li&gt;Document what you do&lt;/li&gt;
-  &lt;li&gt;Release early and often&lt;/li&gt;
-  &lt;li&gt;Talk a lot&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;similarities&quot;&gt;Similarities&lt;/h1&gt;
-&lt;p&gt;Same principles of making open source software open to whoever wants to contribute.&lt;/p&gt;
-
-&lt;h1 id=&quot;differences&quot;&gt;Differences&lt;/h1&gt;
-&lt;p&gt;General Principals are people, Pillars is a definition of open source.&lt;/p&gt;
-
-&lt;h1 id=&quot;whos-keen-analysis-did-weber-draw-heavily-upon&quot;&gt;Whos “keen analysis” did Weber “Draw Heavily” upon?”&lt;/h1&gt;
-&lt;p&gt;Eric Steven Raymond&lt;/p&gt;
-
-&lt;h1 id=&quot;what-was-the-title-of-this-keen-analysis&quot;&gt;What was the title of this “keen analysis?”&lt;/h1&gt;
-&lt;p&gt;The Cathedral and the Bazaar &lt;/p&gt;
-
-&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
-&lt;p&gt;http://www.catb.org/esr/writings/cathedral-bazaar/&lt;/p&gt;
-</description>
-        <pubDate>Wed, 11 Feb 2015 09:46:39 -0500</pubDate>
-        <link>http://Kaffys.github.io/hfoss/quiz/</link>
-        <guid isPermaLink="true">http://Kaffys.github.io/hfoss/quiz/</guid>
-      </item>
-    
-      <item>
-        <title>Lit Review - GNU GPL</title>
-        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
-&lt;p&gt;Software Freedom Law Center, Free Software Foundation, Bradley M Kuhn.&lt;/p&gt;
-
-&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
-&lt;p&gt;Copyleft the the GNU General Public License - A Comprehensive Tutorial and Guide. Chapter 1&lt;/p&gt;
-
-&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
-&lt;p&gt;http://bizlegfoss-ritigm.rhcloud.com/static/books/comprehensive-gpl-guide.pdf&lt;/p&gt;
-
-&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
-&lt;p&gt;2014&lt;/p&gt;
-
-&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
-&lt;p&gt;The book talks about copyright laws when it comes to Free and Open Source Software. There are a ton of different licenses and the book helps the reader understand the differences between each one.  &lt;/p&gt;
-
-&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;I wrote in a blog post earlier, that I didn’t quite understand the difference between copyleft and copyright, and this chapter clarified a lot of it.&lt;/li&gt;
-  &lt;li&gt;This chapter addresses a lot of misconceptions about the GPL.&lt;/li&gt;
-  &lt;li&gt;Four Freedoms&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;I don’t know why I would want to use the GPL and why not.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;“Anti Hacker” movements, and why this would hurt Software Freedom movements?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
-&lt;p&gt;As someone who hasn’t had any exposure to the GNU GPL, I learned a lot. I learned a lot about copyleft. I would recommend this text to anyone who has not been exposed to these concepts. &lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 10 Feb 2015 09:46:39 -0500</pubDate>
-        <link>http://Kaffys.github.io/bizleg/litreview2/</link>
-        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/litreview2/</guid>
-      </item>
-    
-      <item>
-        <title>Left Shark - Can he be copyrighted?</title>
-        <description>&lt;h1 id=&quot;superb-owl&quot;&gt;Superb Owl&lt;/h1&gt;
-&lt;p&gt;This year’s Super Bowl was another huge another extravaganza. With advertisements selling for millions of dollars apiece, over 100 million viewers tuning in and (American) football players with millions of dollars worth of contracts and prizes on the line, it’s anything but a minor production. There were many stars of this game, Richard Sherman of the Seattle Seahawks, MVP Tom Brady of the New England Patriots and even the stunning half time performance by pop-singer Katy Perry. But the true star of the game was someone in a giant shark costume. He has been dubbed by his adoring fans as “The Left Shark”, pictured below. The Patriots may have won this years Super Bowl, but the Left Shark will be the real champion.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kaffys.github.io/leftshark.gif&quot; alt=&quot;Left Shark&quot; title=&quot;I&#39;ve always liked Leftie anyway&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There are IndieGoGos selling Left Shark costume, valentines day cards to give to your lovers, and of course Left Shark stickers. One of Left Shark’s fans &lt;a href=&quot;http://www.shapeways.com/shops/amznfx&quot;&gt;Fernando Sosa&lt;/a&gt; created a beautiful 3D model, and posted is on the website Shapeways, a website where you can buy 3D printed models, so that every fan can have their very own shark. But recently, Shapeways has received a cease and desist letter from Katy Perry’s legal team. Which you can download and read &lt;a href=&quot;http://kaffys.github.io/leftshark.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;can-they-do-this&quot;&gt;Can they do this?&lt;/h1&gt;
-&lt;p&gt;So Katy Perry and her team are claiming copyright on the shark costume. Is that within their rights? In addition to that, does Katy Perry even legally own that copyright?&lt;/p&gt;
-
-&lt;p&gt;There was a court case in 1987 called Brandir International, Inc vs Cascade Pacific Lumber Co. Brandir designed an award winning metal bike rack, Cascade began to copy the bike rack, and Brandir sued for copyright infringement. Cascade used the argument that because they were not works of art, they are useful articles and could not be copyrighted. The court ruled that:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“If design elements reflect a merger of aesthetic and functional considerations, the artist aspects of a work cannot be said to be conceptually separable from the utilitarian elements. Conversely, where design elements can be identified as reflecting the designer’s artistic judgment exercised independently of functional influences, conceptual separability exists.” &lt;a href=&quot;http://openjurist.org/834/f2d/1142/brandir-international-inc-v-cascade-pacific-lumber-co-l&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;So let’s break this legalese down. The court has to look at the the work and decide if the work was made for design reasons, or aesthetic reasons. Let’s use a plate as an example. There are only so many ways you can make a flat plate. But, you can change the designs on the plate, and those designs can be copyrighted. The world utilitarian means that it was designed to be practical rather that pretty.&lt;/p&gt;
-
-&lt;h1 id=&quot;eli5&quot;&gt;ELI5&lt;/h1&gt;
-&lt;p&gt;Left Shark is probably not be copyrightable because it qualifies as a “useful article”. Examples of useful articles are furniture, machines, dinnerware, and most importantly clothing! And since it is a useful article, it cannot be copyrighted. There are so many ways you can make a shark costume. (Like, I don’t know, a 3D model?)&lt;/p&gt;
-
-&lt;h1 id=&quot;so-who-owns-it&quot;&gt;So…. who owns it?&lt;/h1&gt;
-&lt;p&gt;I do not think Katy Perry has any legal claim to the “Left Shark” fad that is going on right now. In addition to these facts, Katy Perry said that because of her contract with the NHL, the NHL had more control over her halftime show than she did. &lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 10 Feb 2015 09:46:39 -0500</pubDate>
-        <link>http://Kaffys.github.io/bizleg/leftshark/</link>
-        <guid isPermaLink="true">http://Kaffys.github.io/bizleg/leftshark/</guid>
-      </item>
-    
-      <item>
-        <title>Lit Review - Open Source</title>
-        <description>&lt;h1 id=&quot;who&quot;&gt;Who&lt;/h1&gt;
-&lt;p&gt;Steve Weber&lt;/p&gt;
-
-&lt;h1 id=&quot;what&quot;&gt;What&lt;/h1&gt;
-&lt;p&gt;What is Open Source and How Does it Work?&lt;/p&gt;
-
-&lt;h1 id=&quot;where&quot;&gt;Where&lt;/h1&gt;
-&lt;p&gt;http://hfoss-ritigm.rhcloud.com/static/books/Weber-SuccessofOpenSource-Chap3.pdf&lt;/p&gt;
-
-&lt;h1 id=&quot;when&quot;&gt;When&lt;/h1&gt;
-&lt;p&gt;2004&lt;/p&gt;
-
-&lt;h1 id=&quot;the-gist&quot;&gt;The Gist&lt;/h1&gt;
-&lt;p&gt;Talked about how and what Open Source software is. &lt;/p&gt;
-
-&lt;h1 id=&quot;the-good&quot;&gt;The Good&lt;/h1&gt;
-&lt;p&gt;-“large-scale software engineering to a prehistoric tar pit.” made me giggle on the inside when I think about programmers fighting each other.
--Tying in some of the things I learned about GPL in biz&amp;amp;legal into HFOSS.
--8 general principals that capture what people do in Open Source. &lt;/p&gt;
-
-&lt;h1 id=&quot;the-bad&quot;&gt;The Bad&lt;/h1&gt;
-&lt;p&gt;-Too long, lost my interest. 
--Went super in depth on the the nitty gritty when those pages could be used to talk more about the point of the article, What is Open Source?
--Very dense. Would not float in water.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-questions&quot;&gt;The Questions&lt;/h1&gt;
-&lt;p&gt;-What are some other early open source projects?
--What are these people/companies doing in todays world?&lt;/p&gt;
-
-&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
-&lt;p&gt;It was a very long text. As someone who was already interested in Open Source software, I found a lot of the text a little obvious, and way to detailed. I would not recommended this text to someone who was just getting into Open Source software.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 09 Feb 2015 09:46:39 -0500</pubDate>
-        <link>http://Kaffys.github.io/hfoss/litreview1/</link>
-        <guid isPermaLink="true">http://Kaffys.github.io/hfoss/litreview1/</guid>
+        <pubDate>Wed, 25 Feb 2015 00:00:00 -0500</pubDate>
+        <link>http://Kaffys.github.io/design/smoketest/</link>
+        <guid isPermaLink="true">http://Kaffys.github.io/design/smoketest/</guid>
       </item>
     
   </channel>
