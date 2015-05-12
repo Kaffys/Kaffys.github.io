@@ -7,7 +7,7 @@ header:
 image:
     homepage: brickhack.jpg
 categories:
-    - design
+    - 
 comments: true
 show_meta: false
 ---
