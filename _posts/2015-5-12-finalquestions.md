@@ -12,8 +12,8 @@ comments: true
 show_meta: false
 ---
 
-1)
+1) Name 6 different types of licenses and briefly explain them. 
 
-2)
+2) When does code you create become copyrighted? Why?
 
 3) 
