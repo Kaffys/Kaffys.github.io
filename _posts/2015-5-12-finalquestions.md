@@ -16,4 +16,4 @@ show_meta: false
 
 2) When does code you create become copyrighted? Why?
 
-3) 
+3) How many OSI approved licenses are there? Can you name some?
