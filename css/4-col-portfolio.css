@@ -1,0 +1,90 @@
+/*!
+ * Start Bootstrap - 4 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 20px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+.nav img {
+	opacity:0.4;
+}
+.nav img:hover {
+	opacity:1;
+}
+.circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(../img/katie.jpg) no-repeat;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.aboutme{
+	background-color: #0fa2cb; 
+	padding: 30px 10px 12px 10px;
+	color:white;
+}
+.github:hover{
+	opacity: .5;
+}
+.games{
+	background-color: #d8457a;
+    padding: 40px 10px 12px 10px;
+    color:white;
+    margin-top: 50px;
+	margin-left: 20px;
+}
+.games:hover{
+	opacity: .7;
+}
+.hacks{
+	background-color: #d9912a;
+    padding: 40px 10px 12px 10px;
+    margin-top: 30px;
+    color:white;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.hacks:hover{
+	opacity: .7;
+}
+.github{
+	background-color: #50b28a; 
+	padding: 40px 10px 12px 10px;
+	margin-left: 20px;
+}
+.idk{
+
+}
+.resume{
+	background-color:#c85141; padding:38px 10px 12px 10px; margin-top:30px;
+
+}
+.resume:hover{
+	opacity: .7;
+}
+.vol{
+	background-color: #d9912a;
+    padding: 40px 10px 12px 10px;
+    margin-top: 30px;
+    color:white;
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+
+
+
