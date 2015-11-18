@@ -34,18 +34,17 @@ footer {
 }
 .aboutme{
 	background-color: #0fa2cb; 
-	padding: 30px 10px 12px 10px;
+	padding: 25px 25px 12px 10px;
 	color:white;
 }
-.github:hover{
-	opacity: .5;
-}
+
 .games{
-	background-color: #d8457a;
+	background-color: #50b28a;
     padding: 40px 10px 12px 10px;
     color:white;
-    margin-top: 50px;
-	margin-left: 20px;
+    margin-top:15px;
+    border-style: solid;
+	border-color: white;
 }
 .games:hover{
 	opacity: .7;
@@ -53,38 +52,25 @@ footer {
 .hacks{
 	background-color: #d9912a;
     padding: 40px 10px 12px 10px;
-    margin-top: 30px;
     color:white;
-    margin-left: 20px;
-    margin-top: 50px;
+    margin-top:15px;
+    border-style: solid;
+	border-color: white;
 }
 .hacks:hover{
 	opacity: .7;
 }
-.github{
-	background-color: #50b28a; 
-	padding: 40px 10px 12px 10px;
-	margin-left: 20px;
-}
-.idk{
-
-}
 .resume{
-	background-color:#c85141; padding:38px 10px 12px 10px; margin-top:30px;
+	background-color:#d8457a; 
+	padding:40px 10px 12px 10px; 
+	margin-top:15px;
+	border-style: solid;
+	border-color: white;
 
 }
 .resume:hover{
 	opacity: .7;
 }
-.vol{
-	background-color: #d9912a;
-    padding: 40px 10px 12px 10px;
-    margin-top: 30px;
-    color:white;
-    margin-left: 20px;
-    margin-top: 50px;
 
-}
-
-
-
+50b28a
+d8457a
